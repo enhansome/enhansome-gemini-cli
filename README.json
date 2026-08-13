@@ -33,7 +33,7 @@
             "last_commit": "2026-08-06T15:05:32Z",
             "owner": "ASCIT31",
             "repo": "Dark-Moon",
-            "stars": 833
+            "stars": 834
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2026-08-07T07:00:06Z",
             "owner": "josstei",
             "repo": "maestro-orchestrate",
-            "stars": 455
+            "stars": 454
           }
         },
         {
@@ -80,20 +80,6 @@
         },
         {
           "node_type": "item",
-          "title": "ATXP",
-          "description": "Give your Gemini CLI agent a wallet, email address, phone number, and 100+ paid MCP tools (web search, image gen, SMS, voice, LLM gateway). Self-register with — no human login required, $5 free credits included.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-03-03T20:25:44Z",
-            "owner": "atxp-dev",
-            "repo": "atxp",
-            "stars": 36
-          }
-        },
-        {
-          "node_type": "item",
           "title": "wolfpack",
           "description": "Mobile & desktop command center for controlling AI coding agents (Claude, Codex, Gemini) across machines from your phone. Secured by Tailscale. Self-hosted.",
           "children": [],
@@ -103,6 +89,20 @@
             "last_commit": "2026-08-12T10:54:35Z",
             "owner": "almogdepaz",
             "repo": "wolfpack",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ATXP",
+          "description": "Give your Gemini CLI agent a wallet, email address, phone number, and 100+ paid MCP tools (web search, image gen, SMS, voice, LLM gateway). Self-register with — no human login required, $5 free credits included.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-03T20:25:44Z",
+            "owner": "atxp-dev",
+            "repo": "atxp",
             "stars": 36
           }
         },
@@ -142,7 +142,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T04:10:18Z",
+            "last_commit": "2026-08-13T08:21:16Z",
             "owner": "alib8b8",
             "repo": "aflare",
             "stars": 10
@@ -205,7 +205,7 @@
             "last_commit": "2026-08-13T01:19:22Z",
             "owner": "google-gemini",
             "repo": "gemini-cli",
-            "stars": 106496
+            "stars": 106497
           }
         },
         {
@@ -216,7 +216,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-10T05:18:28Z",
+            "last_commit": "2026-08-13T07:52:25Z",
             "owner": "google-gemini",
             "repo": "cookbook",
             "stars": 17622
@@ -250,10 +250,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T03:18:24Z",
+            "last_commit": "2026-08-13T07:23:56Z",
             "owner": "iOfficeAI",
             "repo": "AionUi",
-            "stars": 31926
+            "stars": 31940
           }
         },
         {
@@ -284,10 +284,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T04:12:44Z",
+            "last_commit": "2026-08-13T08:42:31Z",
             "owner": "QwenLM",
             "repo": "qwen-code",
-            "stars": 26954
+            "stars": 26963
           }
         },
         {
@@ -360,10 +360,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T20:48:48Z",
+            "last_commit": "2026-08-13T07:48:29Z",
             "owner": "sipyourdrink-ltd",
             "repo": "bernstein",
-            "stars": 851
+            "stars": 853
           }
         },
         {
@@ -391,7 +391,7 @@
             "last_commit": "2026-08-03T22:10:45Z",
             "owner": "madarco",
             "repo": "agentbox",
-            "stars": 348
+            "stars": 349
           }
         },
         {
@@ -444,7 +444,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T02:26:38Z",
+            "last_commit": "2026-08-13T08:45:40Z",
             "owner": "ofekron",
             "repo": "better-agent",
             "stars": 54
@@ -475,7 +475,7 @@
             "last_commit": "2026-08-12T10:54:35Z",
             "owner": "almogdepaz",
             "repo": "wolfpack",
-            "stars": 36
+            "stars": 37
           }
         },
         {
@@ -528,7 +528,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T00:14:56Z",
+            "last_commit": "2026-08-13T04:46:54Z",
             "owner": "intentic",
             "repo": "intentic",
             "stars": 8
@@ -542,7 +542,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T09:46:32Z",
+            "last_commit": "2026-08-13T07:16:44Z",
             "owner": "getdevintern",
             "repo": "devintern",
             "stars": 3
@@ -579,7 +579,7 @@
             "last_commit": "2026-08-11T01:56:34Z",
             "owner": "gemini-cli-extensions",
             "repo": "conductor",
-            "stars": 3691
+            "stars": 3692
           }
         },
         {
@@ -632,10 +632,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T06:02:28Z",
+            "last_commit": "2026-08-13T06:01:47Z",
             "owner": "openaccountants",
             "repo": "openaccountants",
-            "stars": 320
+            "stars": 319
           }
         },
         {
@@ -828,7 +828,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T04:10:18Z",
+            "last_commit": "2026-08-13T08:21:16Z",
             "owner": "alib8b8",
             "repo": "aflare",
             "stars": 10
@@ -938,7 +938,7 @@
           "repo_info": {
             "archived": false,
             "language": "Nix",
-            "last_commit": "2026-08-13T00:45:33Z",
+            "last_commit": "2026-08-13T08:41:01Z",
             "owner": "numtide",
             "repo": "llm-agents.nix",
             "stars": 1735
@@ -952,7 +952,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T03:27:39Z",
+            "last_commit": "2026-08-13T05:57:53Z",
             "owner": "dyoshikawa",
             "repo": "rulesync",
             "stars": 1304
@@ -980,10 +980,10 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-12T23:27:16Z",
+            "last_commit": "2026-08-13T05:37:45Z",
             "owner": "jazzyalex",
             "repo": "agent-sessions",
-            "stars": 777
+            "stars": 778
           }
         },
         {
@@ -994,7 +994,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T23:40:23Z",
+            "last_commit": "2026-08-13T06:51:02Z",
             "owner": "agent-sh",
             "repo": "agnix",
             "stars": 379
@@ -1036,7 +1036,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T04:01:41Z",
+            "last_commit": "2026-08-13T04:42:26Z",
             "owner": "BA-CalderonMorales",
             "repo": "terminal-jarvis",
             "stars": 131
@@ -1053,7 +1053,7 @@
             "last_commit": "2026-08-10T01:07:58Z",
             "owner": "luoyuctl",
             "repo": "agenttrace",
-            "stars": 118
+            "stars": 119
           }
         },
         {
@@ -1190,7 +1190,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-17T18:15:18Z",
+            "last_commit": "2026-08-13T08:08:02Z",
             "owner": "anthony-chaudhary",
             "repo": "dos-kernel",
             "stars": 18
@@ -1218,7 +1218,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T12:52:17Z",
+            "last_commit": "2026-08-13T07:56:51Z",
             "owner": "Manamama",
             "repo": "Puzzles_for_AIs",
             "stars": 15
@@ -1459,7 +1459,7 @@
             "last_commit": "2026-08-10T17:59:31Z",
             "owner": "IvanMurzak",
             "repo": "Unity-MCP",
-            "stars": 3879
+            "stars": 3882
           }
         },
         {
@@ -1473,7 +1473,7 @@
             "last_commit": "2026-07-21T23:37:16Z",
             "owner": "jamubc",
             "repo": "gemini-mcp-tool",
-            "stars": 2272
+            "stars": 2273
           }
         },
         {
@@ -1512,7 +1512,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T04:11:48Z",
+            "last_commit": "2026-08-13T06:15:46Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -1568,7 +1568,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T18:19:02Z",
+            "last_commit": "2026-08-13T08:41:02Z",
             "owner": "Vortx-AI",
             "repo": "emem",
             "stars": 52
@@ -1582,10 +1582,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T21:53:26Z",
+            "last_commit": "2026-08-13T07:19:42Z",
             "owner": "supernovae-st",
             "repo": "nika",
-            "stars": 46
+            "stars": 47
           }
         },
         {
@@ -1652,7 +1652,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-09T11:33:05Z",
+            "last_commit": "2026-08-13T06:38:51Z",
             "owner": "IvanMurzak",
             "repo": "GameDev-MCP-Server",
             "stars": 9
@@ -1797,7 +1797,7 @@
             "last_commit": "2026-08-07T07:00:06Z",
             "owner": "josstei",
             "repo": "maestro-orchestrate",
-            "stars": 455
+            "stars": 454
           }
         },
         {
@@ -1974,10 +1974,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T00:45:53Z",
+            "last_commit": "2026-08-13T05:40:58Z",
             "owner": "nowork-studio",
             "repo": "notfair-plugin",
-            "stars": 3346
+            "stars": 3350
           }
         },
         {
@@ -1988,10 +1988,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T00:45:53Z",
+            "last_commit": "2026-08-13T05:40:58Z",
             "owner": "nowork-studio",
             "repo": "notfair-plugin",
-            "stars": 3346
+            "stars": 3350
           }
         },
         {
@@ -2018,7 +2018,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:16:23.379Z",
+    "last_updated": "2026-08-13T08:47:37.964Z",
     "original_repository": "Piebald-AI/awesome-gemini-cli",
     "original_repository_sha": "0f84f6be960ad44cca5d46f2fecc20cc6fd317ec",
     "enhanced_repository": "enhansome/enhansome-gemini-cli",
