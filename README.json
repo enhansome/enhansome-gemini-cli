@@ -15,7 +15,7 @@
             "last_commit": "2026-08-18T11:53:56Z",
             "owner": "johannesjo",
             "repo": "parallel-code",
-            "stars": 979
+            "stars": 980
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-08-19T01:07:23Z",
             "owner": "google-gemini",
             "repo": "gemini-cli",
-            "stars": 106563
+            "stars": 106572
           }
         },
         {
@@ -213,7 +213,7 @@
             "archived": false,
             "id": 771670025,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-19T07:57:27Z",
+            "last_commit": "2026-08-19T08:12:26Z",
             "owner": "google-gemini",
             "repo": "cookbook",
             "stars": 17674
@@ -249,10 +249,10 @@
             "archived": false,
             "id": 1033778670,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T07:24:10Z",
+            "last_commit": "2026-08-19T12:19:39Z",
             "owner": "iOfficeAI",
             "repo": "AionUi",
-            "stars": 32103
+            "stars": 32107
           }
         },
         {
@@ -285,10 +285,10 @@
             "archived": false,
             "id": 1008713177,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T07:57:50Z",
+            "last_commit": "2026-08-19T12:23:52Z",
             "owner": "QwenLM",
             "repo": "qwen-code",
-            "stars": 27177
+            "stars": 27187
           }
         },
         {
@@ -315,7 +315,7 @@
             "archived": false,
             "id": 1008626285,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T05:15:15Z",
+            "last_commit": "2026-08-19T08:57:30Z",
             "owner": "vybestack",
             "repo": "llxprt-code",
             "stars": 701
@@ -336,7 +336,7 @@
             "archived": false,
             "id": 1258962324,
             "language": "Python",
-            "last_commit": "2026-08-19T07:14:04Z",
+            "last_commit": "2026-08-19T09:11:17Z",
             "owner": "agentlas-ai",
             "repo": "Agentlas-OS",
             "stars": 1158
@@ -354,7 +354,7 @@
             "last_commit": "2026-08-18T11:53:56Z",
             "owner": "johannesjo",
             "repo": "parallel-code",
-            "stars": 979
+            "stars": 980
           }
         },
         {
@@ -369,7 +369,7 @@
             "last_commit": "2026-08-19T05:18:14Z",
             "owner": "sipyourdrink-ltd",
             "repo": "bernstein",
-            "stars": 929
+            "stars": 932
           }
         },
         {
@@ -411,7 +411,7 @@
             "archived": false,
             "id": 1211796176,
             "language": "C#",
-            "last_commit": "2026-08-18T15:12:25Z",
+            "last_commit": "2026-08-19T12:25:27Z",
             "owner": "Ivy-Interactive",
             "repo": "Ivy-Tendril",
             "stars": 170
@@ -456,7 +456,7 @@
             "archived": false,
             "id": 1279328732,
             "language": "Python",
-            "last_commit": "2026-08-19T07:34:40Z",
+            "last_commit": "2026-08-19T08:54:53Z",
             "owner": "ofekron",
             "repo": "better-agent",
             "stars": 56
@@ -509,21 +509,6 @@
         },
         {
           "node_type": "item",
-          "title": "intentic",
-          "description": "Self-hosted workspace that runs Gemini CLI over ACP () alongside Claude Code, Codex, and OpenCode. Each agent gets its own Docker container and git worktree on hardware you own; terminals survive disconnects, any browser or phone reopens the same fleet, and changes land through per-file, per-hunk diff review. Scheduled and webhook-triggered runs. MIT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1322956121,
-            "language": "TypeScript",
-            "last_commit": "2026-08-19T00:46:18Z",
-            "owner": "intentic",
-            "repo": "intentic",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
           "title": "SandBase CLI",
           "description": "Open-source CLI and MCP bridge that configures Gemini CLI and other AI coding agents to access 2,000+ AI models through one account.",
           "children": [],
@@ -534,6 +519,21 @@
             "last_commit": "2026-08-19T06:45:13Z",
             "owner": "sandbaseai",
             "repo": "cli",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "intentic",
+          "description": "Self-hosted workspace that runs Gemini CLI over ACP () alongside Claude Code, Codex, and OpenCode. Each agent gets its own Docker container and git worktree on hardware you own; terminals survive disconnects, any browser or phone reopens the same fleet, and changes land through per-file, per-hunk diff review. Scheduled and webhook-triggered runs. MIT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1322956121,
+            "language": "TypeScript",
+            "last_commit": "2026-08-19T11:54:47Z",
+            "owner": "intentic",
+            "repo": "intentic",
             "stars": 16
           }
         },
@@ -615,7 +615,7 @@
             "last_commit": "2026-08-11T01:56:34Z",
             "owner": "gemini-cli-extensions",
             "repo": "conductor",
-            "stars": 3705
+            "stars": 3704
           }
         },
         {
@@ -630,7 +630,7 @@
             "last_commit": "2026-08-14T14:46:25Z",
             "owner": "hyhmrright",
             "repo": "brooks-lint",
-            "stars": 1384
+            "stars": 1386
           }
         },
         {
@@ -675,7 +675,7 @@
             "last_commit": "2026-08-17T05:22:17Z",
             "owner": "openaccountants",
             "repo": "openaccountants",
-            "stars": 330
+            "stars": 331
           }
         },
         {
@@ -996,7 +996,7 @@
             "last_commit": "2026-08-19T04:36:22Z",
             "owner": "numtide",
             "repo": "llm-agents.nix",
-            "stars": 1771
+            "stars": 1772
           }
         },
         {
@@ -1041,7 +1041,7 @@
             "last_commit": "2026-08-18T23:41:18Z",
             "owner": "jazzyalex",
             "repo": "agent-sessions",
-            "stars": 798
+            "stars": 799
           }
         },
         {
@@ -1146,7 +1146,7 @@
             "last_commit": "2026-07-24T23:13:46Z",
             "owner": "agentrhq",
             "repo": "authsome",
-            "stars": 81
+            "stars": 82
           }
         },
         {
@@ -1158,7 +1158,7 @@
             "archived": false,
             "id": 1317304497,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T07:50:57Z",
+            "last_commit": "2026-08-19T11:22:45Z",
             "owner": "Bevel-Software",
             "repo": "Hexis",
             "stars": 71
@@ -1478,6 +1478,21 @@
         },
         {
           "node_type": "item",
+          "title": "Gemini CLI Termux",
+          "description": "Provides a one-click deployment solution for Gemini CLI reverse proxy service for Android Termux users.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1040310742,
+            "language": "Python",
+            "last_commit": "2026-03-08T06:21:20Z",
+            "owner": "print-yuhuan",
+            "repo": "Gemini-CLI-Termux",
+            "stars": 172
+          }
+        },
+        {
+          "node_type": "item",
           "title": "gemini-cli-proxy",
           "description": "OpenAI-compatible API wrapper for Gemini CLI as an OpenAI-compatible API service, allowing you to enjoy the free Gemini 2.5 Pro model through API!",
           "children": [],
@@ -1539,7 +1554,7 @@
             "last_commit": "2026-08-19T02:08:15Z",
             "owner": "IvanMurzak",
             "repo": "Unity-MCP",
-            "stars": 3948
+            "stars": 3951
           }
         },
         {
@@ -1554,7 +1569,7 @@
             "last_commit": "2026-07-21T23:37:16Z",
             "owner": "jamubc",
             "repo": "gemini-mcp-tool",
-            "stars": 2277
+            "stars": 2278
           }
         },
         {
@@ -1569,7 +1584,7 @@
             "last_commit": "2026-08-03T18:44:59Z",
             "owner": "vostride",
             "repo": "agent-qa",
-            "stars": 940
+            "stars": 943
           }
         },
         {
@@ -1611,7 +1626,7 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T07:33:03Z",
+            "last_commit": "2026-08-19T11:48:09Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -1671,7 +1686,7 @@
             "archived": false,
             "id": 1126625946,
             "language": "Rust",
-            "last_commit": "2026-08-19T07:48:41Z",
+            "last_commit": "2026-08-19T12:16:02Z",
             "owner": "supernovae-st",
             "repo": "nika",
             "stars": 54
@@ -1686,7 +1701,7 @@
             "archived": false,
             "id": 1220365832,
             "language": "Rust",
-            "last_commit": "2026-08-19T07:33:16Z",
+            "last_commit": "2026-08-19T10:46:04Z",
             "owner": "Vortx-AI",
             "repo": "emem",
             "stars": 52
@@ -2156,8 +2171,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T07:57:52.882Z",
+    "last_updated": "2026-08-19T12:29:33.156Z",
     "original_repository": "Piebald-AI/awesome-gemini-cli",
+    "original_repository_id": 1029161494,
     "original_repository_sha": "4184c35dd94d472b60c5bfe18098125c028bdd0d",
     "enhanced_repository": "enhansome/enhansome-gemini-cli",
     "enhanced_repository_description": null,
