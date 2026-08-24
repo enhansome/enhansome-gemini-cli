@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T17:08:41Z",
             "owner": "johannesjo",
             "repo": "parallel-code",
-            "stars": 987
+            "stars": 990
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 894433723,
             "language": "Python",
-            "last_commit": "2026-08-21T18:19:19Z",
+            "last_commit": "2026-08-23T15:48:25Z",
             "owner": "ASCIT31",
             "repo": "Dark-Moon",
-            "stars": 859
+            "stars": 866
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 1168120544,
             "language": "JavaScript",
-            "last_commit": "2026-08-23T02:40:19Z",
+            "last_commit": "2026-08-24T02:12:22Z",
             "owner": "Xquik-dev",
             "repo": "x-twitter-scraper",
-            "stars": 186
+            "stars": 187
           }
         },
         {
@@ -132,7 +132,7 @@
             "archived": false,
             "id": 552259791,
             "language": "Go",
-            "last_commit": "2026-08-22T16:27:42Z",
+            "last_commit": "2026-08-23T13:41:41Z",
             "owner": "alib8b8",
             "repo": "aflare",
             "stars": 11
@@ -198,10 +198,10 @@
             "archived": false,
             "id": 968197216,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T01:15:05Z",
+            "last_commit": "2026-08-24T00:59:21Z",
             "owner": "google-gemini",
             "repo": "gemini-cli",
-            "stars": 106619
+            "stars": 106646
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2026-08-19T15:29:57Z",
             "owner": "google-gemini",
             "repo": "cookbook",
-            "stars": 17688
+            "stars": 17692
           }
         },
         {
@@ -249,10 +249,10 @@
             "archived": false,
             "id": 1033778670,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T19:51:21Z",
+            "last_commit": "2026-08-24T08:08:07Z",
             "owner": "iOfficeAI",
             "repo": "AionUi",
-            "stars": 32213
+            "stars": 32233
           }
         },
         {
@@ -285,10 +285,10 @@
             "archived": false,
             "id": 1008713177,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T07:47:47Z",
+            "last_commit": "2026-08-24T08:06:54Z",
             "owner": "QwenLM",
             "repo": "qwen-code",
-            "stars": 27304
+            "stars": 27326
           }
         },
         {
@@ -303,7 +303,7 @@
             "last_commit": "2026-03-20T03:00:54Z",
             "owner": "iflow-ai",
             "repo": "iflow-cli",
-            "stars": 5107
+            "stars": 5106
           }
         },
         {
@@ -315,7 +315,7 @@
             "archived": false,
             "id": 1008626285,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T06:50:38Z",
+            "last_commit": "2026-08-24T01:48:21Z",
             "owner": "vybestack",
             "repo": "llxprt-code",
             "stars": 700
@@ -336,10 +336,10 @@
             "archived": false,
             "id": 1258962324,
             "language": "Python",
-            "last_commit": "2026-08-23T05:44:57Z",
+            "last_commit": "2026-08-23T21:58:05Z",
             "owner": "agentlas-ai",
             "repo": "Agentlas-OS",
-            "stars": 1129
+            "stars": 1139
           }
         },
         {
@@ -354,7 +354,7 @@
             "last_commit": "2026-08-21T17:08:41Z",
             "owner": "johannesjo",
             "repo": "parallel-code",
-            "stars": 987
+            "stars": 990
           }
         },
         {
@@ -366,10 +366,10 @@
             "archived": false,
             "id": 1188762020,
             "language": "Python",
-            "last_commit": "2026-08-23T06:57:37Z",
+            "last_commit": "2026-08-24T08:08:01Z",
             "owner": "sipyourdrink-ltd",
             "repo": "bernstein",
-            "stars": 960
+            "stars": 971
           }
         },
         {
@@ -396,10 +396,10 @@
             "archived": false,
             "id": 1236599897,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T21:22:48Z",
+            "last_commit": "2026-08-24T08:00:40Z",
             "owner": "madarco",
             "repo": "agentbox",
-            "stars": 370
+            "stars": 374
           }
         },
         {
@@ -414,7 +414,7 @@
             "last_commit": "2026-08-22T15:32:13Z",
             "owner": "Ivy-Interactive",
             "repo": "Ivy-Tendril",
-            "stars": 171
+            "stars": 170
           }
         },
         {
@@ -456,7 +456,7 @@
             "archived": false,
             "id": 1279328732,
             "language": "Python",
-            "last_commit": "2026-08-23T07:27:17Z",
+            "last_commit": "2026-08-24T07:51:14Z",
             "owner": "ofekron",
             "repo": "better-agent",
             "stars": 58
@@ -479,6 +479,21 @@
         },
         {
           "node_type": "item",
+          "title": "SandBase CLI",
+          "description": "Open-source CLI and MCP bridge that configures Gemini CLI and other AI coding agents to access 2,000+ AI models through one account.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1281133792,
+            "language": "TypeScript",
+            "last_commit": "2026-08-23T11:29:29Z",
+            "owner": "sandbaseai",
+            "repo": "cli",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
           "title": "wolfpack",
           "description": "Mobile & desktop command center for controlling AI coding agents (Claude, Codex, Gemini) across machines from your phone. Secured by Tailscale. Self-hosted.",
           "children": [],
@@ -494,21 +509,6 @@
         },
         {
           "node_type": "item",
-          "title": "SandBase CLI",
-          "description": "Open-source CLI and MCP bridge that configures Gemini CLI and other AI coding agents to access 2,000+ AI models through one account.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1281133792,
-            "language": "TypeScript",
-            "last_commit": "2026-08-23T07:41:18Z",
-            "owner": "sandbaseai",
-            "repo": "cli",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
           "title": "intentic",
           "description": "Self-hosted workspace that runs Gemini CLI over ACP () alongside Claude Code, Codex, and OpenCode. Each agent gets its own Docker container and git worktree on hardware you own; terminals survive disconnects, any browser or phone reopens the same fleet, and changes land through per-file, per-hunk diff review. Scheduled and webhook-triggered runs. MIT.",
           "children": [],
@@ -516,7 +516,7 @@
             "archived": false,
             "id": 1322956121,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T22:26:01Z",
+            "last_commit": "2026-08-24T00:44:23Z",
             "owner": "intentic",
             "repo": "intentic",
             "stars": 25
@@ -531,7 +531,7 @@
             "archived": false,
             "id": 1277595908,
             "language": "Python",
-            "last_commit": "2026-08-21T01:14:01Z",
+            "last_commit": "2026-08-24T04:46:05Z",
             "owner": "rxdt",
             "repo": "loopgate_harness",
             "stars": 20
@@ -576,7 +576,7 @@
             "archived": false,
             "id": 1294594135,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T20:37:52Z",
+            "last_commit": "2026-08-24T07:46:13Z",
             "owner": "getdevintern",
             "repo": "devintern",
             "stars": 3
@@ -615,7 +615,7 @@
             "last_commit": "2026-08-11T01:56:34Z",
             "owner": "gemini-cli-extensions",
             "repo": "conductor",
-            "stars": 3705
+            "stars": 3707
           }
         },
         {
@@ -627,10 +627,10 @@
             "archived": false,
             "id": 1192608669,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T14:20:43Z",
+            "last_commit": "2026-08-24T04:07:06Z",
             "owner": "hyhmrright",
             "repo": "brooks-lint",
-            "stars": 1406
+            "stars": 1410
           }
         },
         {
@@ -645,7 +645,7 @@
             "last_commit": "2026-05-14T23:19:26Z",
             "owner": "galdawave",
             "repo": "pickle-rick-extension",
-            "stars": 453
+            "stars": 452
           }
         },
         {
@@ -672,10 +672,10 @@
             "archived": false,
             "id": 1206029526,
             "language": "Python",
-            "last_commit": "2026-08-23T05:14:41Z",
+            "last_commit": "2026-08-24T05:26:14Z",
             "owner": "openaccountants",
             "repo": "openaccountants",
-            "stars": 338
+            "stars": 341
           }
         },
         {
@@ -690,7 +690,7 @@
             "last_commit": "2026-08-17T07:01:48Z",
             "owner": "talkstream",
             "repo": "ru-text",
-            "stars": 213
+            "stars": 214
           }
         },
         {
@@ -882,7 +882,7 @@
             "archived": false,
             "id": 552259791,
             "language": "Go",
-            "last_commit": "2026-08-22T16:27:42Z",
+            "last_commit": "2026-08-23T13:41:41Z",
             "owner": "alib8b8",
             "repo": "aflare",
             "stars": 11
@@ -977,6 +977,21 @@
             "repo": "16-eyes",
             "stars": 4
           }
+        },
+        {
+          "node_type": "item",
+          "title": "ArmorGemini",
+          "description": "Intent-based security enforcement for the Gemini CLI. Every tool call is checked against your ArmorIQ policy via / hooks before it runs. Blocks intent drift, unauthorized tool use, and PII/PCI leaks. Install: .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1321951382,
+            "language": "JavaScript",
+            "last_commit": "2026-08-22T13:56:15Z",
+            "owner": "armoriq",
+            "repo": "armorGemini",
+            "stars": 3
+          }
         }
       ],
       "title": "Commands & Extensions"
@@ -993,10 +1008,10 @@
             "archived": false,
             "id": 1022026685,
             "language": "Nix",
-            "last_commit": "2026-08-23T05:19:17Z",
+            "last_commit": "2026-08-24T06:14:30Z",
             "owner": "numtide",
             "repo": "llm-agents.nix",
-            "stars": 1801
+            "stars": 1817
           }
         },
         {
@@ -1008,10 +1023,10 @@
             "archived": false,
             "id": 1004340390,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T05:05:41Z",
+            "last_commit": "2026-08-24T08:04:46Z",
             "owner": "dyoshikawa",
             "repo": "rulesync",
-            "stars": 1339
+            "stars": 1341
           }
         },
         {
@@ -1026,7 +1041,7 @@
             "last_commit": "2026-08-22T09:11:37Z",
             "owner": "kbwo",
             "repo": "ccmanager",
-            "stars": 1224
+            "stars": 1225
           }
         },
         {
@@ -1038,10 +1053,10 @@
             "archived": false,
             "id": 1060421643,
             "language": "Swift",
-            "last_commit": "2026-08-23T00:44:27Z",
+            "last_commit": "2026-08-24T02:14:22Z",
             "owner": "jazzyalex",
             "repo": "agent-sessions",
-            "stars": 808
+            "stars": 811
           }
         },
         {
@@ -1053,10 +1068,10 @@
             "archived": false,
             "id": 1146336156,
             "language": "Rust",
-            "last_commit": "2026-08-22T21:14:53Z",
+            "last_commit": "2026-08-23T21:27:41Z",
             "owner": "agent-sh",
             "repo": "agnix",
-            "stars": 391
+            "stars": 393
           }
         },
         {
@@ -1071,7 +1086,7 @@
             "last_commit": "2026-08-21T21:47:06Z",
             "owner": "Piebald-AI",
             "repo": "splitrail",
-            "stars": 217
+            "stars": 218
           }
         },
         {
@@ -1113,10 +1128,10 @@
             "archived": false,
             "id": 1226187070,
             "language": "Rust",
-            "last_commit": "2026-08-22T05:02:09Z",
+            "last_commit": "2026-08-24T01:09:37Z",
             "owner": "luoyuctl",
             "repo": "agenttrace",
-            "stars": 121
+            "stars": 122
           }
         },
         {
@@ -1131,7 +1146,7 @@
             "last_commit": "2026-08-21T03:33:44Z",
             "owner": "MohamedAbdallah-14",
             "repo": "unslop",
-            "stars": 105
+            "stars": 106
           }
         },
         {
@@ -1161,7 +1176,7 @@
             "last_commit": "2026-08-22T13:36:09Z",
             "owner": "Bevel-Software",
             "repo": "Hexis",
-            "stars": 76
+            "stars": 77
           }
         },
         {
@@ -1248,7 +1263,7 @@
             "archived": false,
             "id": 1087007012,
             "language": "Dockerfile",
-            "last_commit": "2026-08-17T04:59:59Z",
+            "last_commit": "2026-08-24T05:02:35Z",
             "owner": "tgagor",
             "repo": "docker-gemini-cli",
             "stars": 19
@@ -1455,7 +1470,7 @@
             "archived": false,
             "id": 1008961851,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T04:07:11Z",
+            "last_commit": "2026-08-24T02:45:06Z",
             "owner": "GewoonJaap",
             "repo": "gemini-cli-openai",
             "stars": 894
@@ -1551,10 +1566,10 @@
             "archived": false,
             "id": 959123498,
             "language": "C#",
-            "last_commit": "2026-08-19T21:40:41Z",
+            "last_commit": "2026-08-24T02:38:25Z",
             "owner": "IvanMurzak",
             "repo": "Unity-MCP",
-            "stars": 3961
+            "stars": 3971
           }
         },
         {
@@ -1569,7 +1584,7 @@
             "last_commit": "2026-07-21T23:37:16Z",
             "owner": "jamubc",
             "repo": "gemini-mcp-tool",
-            "stars": 2278
+            "stars": 2276
           }
         },
         {
@@ -1584,7 +1599,22 @@
             "last_commit": "2026-08-03T18:44:59Z",
             "owner": "vostride",
             "repo": "agent-qa",
-            "stars": 936
+            "stars": 960
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "deja-vu",
+          "description": "Local memory over the session files Gemini CLI and 19 other agents already write to disk, so a new session can search what you did before — including the months before you installed it. MCP tools plus auto-recall on every prompt; one Go binary, no network calls, MIT. Install: .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1300173275,
+            "language": "Go",
+            "last_commit": "2026-08-24T08:06:05Z",
+            "owner": "vshulcz",
+            "repo": "deja-vu",
+            "stars": 688
           }
         },
         {
@@ -1599,7 +1629,7 @@
             "last_commit": "2026-08-16T12:16:02Z",
             "owner": "IvanMurzak",
             "repo": "Godot-MCP",
-            "stars": 221
+            "stars": 223
           }
         },
         {
@@ -1611,10 +1641,10 @@
             "archived": false,
             "id": 1168120544,
             "language": "JavaScript",
-            "last_commit": "2026-08-23T02:40:19Z",
+            "last_commit": "2026-08-24T02:12:22Z",
             "owner": "Xquik-dev",
             "repo": "x-twitter-scraper",
-            "stars": 186
+            "stars": 187
           }
         },
         {
@@ -1626,7 +1656,7 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T06:50:11Z",
+            "last_commit": "2026-08-24T05:51:45Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -1664,6 +1694,21 @@
         },
         {
           "node_type": "item",
+          "title": "nika",
+          "description": "Read-only oracle for Nika AI workflows: validate .nika.yaml DAGs, explain findings, browse schema/examples, honest cost estimate — before a single token is spent (single Rust binary, config: command nika, args [mcp]).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1126625946,
+            "language": "Rust",
+            "last_commit": "2026-08-24T07:45:52Z",
+            "owner": "supernovae-st",
+            "repo": "nika",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
           "title": "RunAPI MCP",
           "description": "Remote MCP server for browsing model catalogs, checking pricing, and creating image, video, music, audio, and other model API tasks through RunAPI. Works with Gemini CLI: .",
           "children": [],
@@ -1679,21 +1724,6 @@
         },
         {
           "node_type": "item",
-          "title": "nika",
-          "description": "Read-only oracle for Nika AI workflows: validate .nika.yaml DAGs, explain findings, browse schema/examples, honest cost estimate — before a single token is spent (single Rust binary, config: command nika, args [mcp]).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1126625946,
-            "language": "Rust",
-            "last_commit": "2026-08-23T06:31:01Z",
-            "owner": "supernovae-st",
-            "repo": "nika",
-            "stars": 54
-          }
-        },
-        {
-          "node_type": "item",
           "title": "emem",
           "description": "Shared, signed and content-addressed memory of the physical world that AI agents can read, cite, transfer and independently verify. 108 tools, no API key, no signup. Remote Streamable HTTP. Install: .",
           "children": [],
@@ -1701,10 +1731,10 @@
             "archived": false,
             "id": 1220365832,
             "language": "Rust",
-            "last_commit": "2026-08-23T07:20:42Z",
+            "last_commit": "2026-08-24T07:44:20Z",
             "owner": "Vortx-AI",
             "repo": "emem",
-            "stars": 53
+            "stars": 54
           }
         },
         {
@@ -1716,7 +1746,7 @@
             "archived": false,
             "id": 1316178203,
             "language": "Rust",
-            "last_commit": "2026-08-22T15:12:47Z",
+            "last_commit": "2026-08-24T05:29:37Z",
             "owner": "JanYork",
             "repo": "llm-wiki-cli",
             "stars": 47
@@ -1784,6 +1814,21 @@
         },
         {
           "node_type": "item",
+          "title": "Lians",
+          "description": "Open-source, local-first memory for Gemini CLI and other AI agents. Durable cross-session recall through a two-tool MCP extension, with no account or API key. Install: .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1280700354,
+            "language": "Python",
+            "last_commit": "2026-08-24T02:11:06Z",
+            "owner": "Lians-ai",
+            "repo": "Lians",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
           "title": "GameDev-MCP-Server",
           "description": "Open-source, engine-agnostic MCP server shared by Unity-MCP, Godot-MCP, and Unreal-MCP.",
           "children": [],
@@ -1795,21 +1840,6 @@
             "owner": "IvanMurzak",
             "repo": "GameDev-MCP-Server",
             "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lians",
-          "description": "Open-source, local-first memory for Gemini CLI and other AI agents. Durable cross-session recall through a two-tool MCP extension, with no account or API key. Install: .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1280700354,
-            "language": "Python",
-            "last_commit": "2026-08-21T20:33:54Z",
-            "owner": "Lians-ai",
-            "repo": "Lians",
-            "stars": 8
           }
         },
         {
@@ -1971,7 +2001,7 @@
             "last_commit": "2025-09-12T03:28:38Z",
             "owner": "openmule",
             "repo": "gacua",
-            "stars": 137
+            "stars": 138
           }
         },
         {
@@ -2022,7 +2052,7 @@
             "last_commit": "2025-10-19T03:25:32Z",
             "owner": "addyosmani",
             "repo": "gemini-cli-tips",
-            "stars": 2371
+            "stars": 2368
           }
         },
         {
@@ -2133,7 +2163,7 @@
             "last_commit": "2026-08-22T06:29:05Z",
             "owner": "nowork-studio",
             "repo": "notfair-plugin",
-            "stars": 3392
+            "stars": 3395
           }
         },
         {
@@ -2148,7 +2178,7 @@
             "last_commit": "2026-08-22T06:29:05Z",
             "owner": "nowork-studio",
             "repo": "notfair-plugin",
-            "stars": 3392
+            "stars": 3395
           }
         },
         {
@@ -2171,10 +2201,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T07:51:37.482Z",
+    "last_updated": "2026-08-24T08:08:26.596Z",
     "original_repository": "Piebald-AI/awesome-gemini-cli",
     "original_repository_id": 1029161494,
-    "original_repository_sha": "a14726284acec53b71aabec2d54b56b783708dc3",
+    "original_repository_sha": "a063039dc5dc49292fdbdc57a9b7fbb42c3ffbe3",
     "enhanced_repository": "enhansome/enhansome-gemini-cli",
     "enhanced_repository_description": null,
     "title": "Awesome Gemini CLI with stars"
