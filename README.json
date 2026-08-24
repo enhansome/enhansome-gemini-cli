@@ -30,7 +30,7 @@
             "last_commit": "2026-08-23T15:48:25Z",
             "owner": "ASCIT31",
             "repo": "Dark-Moon",
-            "stars": 866
+            "stars": 867
           }
         },
         {
@@ -102,7 +102,7 @@
             "archived": false,
             "id": 1146021062,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T19:21:30Z",
+            "last_commit": "2026-08-24T13:11:27Z",
             "owner": "almogdepaz",
             "repo": "wolfpack",
             "stars": 37
@@ -132,7 +132,7 @@
             "archived": false,
             "id": 552259791,
             "language": "Go",
-            "last_commit": "2026-08-23T13:41:41Z",
+            "last_commit": "2026-08-24T13:52:00Z",
             "owner": "alib8b8",
             "repo": "aflare",
             "stars": 11
@@ -201,7 +201,7 @@
             "last_commit": "2026-08-24T00:59:21Z",
             "owner": "google-gemini",
             "repo": "gemini-cli",
-            "stars": 106646
+            "stars": 106660
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2026-08-19T15:29:57Z",
             "owner": "google-gemini",
             "repo": "cookbook",
-            "stars": 17692
+            "stars": 17693
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2026-08-21T16:03:24Z",
             "owner": "google-github-actions",
             "repo": "run-gemini-cli",
-            "stars": 2057
+            "stars": 2059
           }
         }
       ],
@@ -249,10 +249,10 @@
             "archived": false,
             "id": 1033778670,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T08:08:07Z",
+            "last_commit": "2026-08-24T12:11:16Z",
             "owner": "iOfficeAI",
             "repo": "AionUi",
-            "stars": 32233
+            "stars": 32245
           }
         },
         {
@@ -285,10 +285,10 @@
             "archived": false,
             "id": 1008713177,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T08:06:54Z",
+            "last_commit": "2026-08-24T14:19:53Z",
             "owner": "QwenLM",
             "repo": "qwen-code",
-            "stars": 27326
+            "stars": 27334
           }
         },
         {
@@ -336,10 +336,10 @@
             "archived": false,
             "id": 1258962324,
             "language": "Python",
-            "last_commit": "2026-08-23T21:58:05Z",
+            "last_commit": "2026-08-24T14:16:37Z",
             "owner": "agentlas-ai",
             "repo": "Agentlas-OS",
-            "stars": 1139
+            "stars": 1140
           }
         },
         {
@@ -366,10 +366,10 @@
             "archived": false,
             "id": 1188762020,
             "language": "Python",
-            "last_commit": "2026-08-24T08:08:01Z",
+            "last_commit": "2026-08-24T14:06:53Z",
             "owner": "sipyourdrink-ltd",
             "repo": "bernstein",
-            "stars": 971
+            "stars": 974
           }
         },
         {
@@ -396,7 +396,7 @@
             "archived": false,
             "id": 1236599897,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T08:00:40Z",
+            "last_commit": "2026-08-24T14:16:10Z",
             "owner": "madarco",
             "repo": "agentbox",
             "stars": 374
@@ -411,7 +411,7 @@
             "archived": false,
             "id": 1211796176,
             "language": "C#",
-            "last_commit": "2026-08-22T15:32:13Z",
+            "last_commit": "2026-08-24T11:19:10Z",
             "owner": "Ivy-Interactive",
             "repo": "Ivy-Tendril",
             "stars": 170
@@ -456,7 +456,7 @@
             "archived": false,
             "id": 1279328732,
             "language": "Python",
-            "last_commit": "2026-08-24T07:51:14Z",
+            "last_commit": "2026-08-24T14:12:45Z",
             "owner": "ofekron",
             "repo": "better-agent",
             "stars": 58
@@ -489,7 +489,7 @@
             "last_commit": "2026-08-23T11:29:29Z",
             "owner": "sandbaseai",
             "repo": "cli",
-            "stars": 43
+            "stars": 45
           }
         },
         {
@@ -501,7 +501,7 @@
             "archived": false,
             "id": 1146021062,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T19:21:30Z",
+            "last_commit": "2026-08-24T13:11:27Z",
             "owner": "almogdepaz",
             "repo": "wolfpack",
             "stars": 37
@@ -516,7 +516,7 @@
             "archived": false,
             "id": 1322956121,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T00:44:23Z",
+            "last_commit": "2026-08-24T14:02:44Z",
             "owner": "intentic",
             "repo": "intentic",
             "stars": 25
@@ -576,7 +576,7 @@
             "archived": false,
             "id": 1294594135,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T07:46:13Z",
+            "last_commit": "2026-08-24T11:21:48Z",
             "owner": "getdevintern",
             "repo": "devintern",
             "stars": 3
@@ -601,8 +601,23 @@
       "title": "Agent Orchestration & CLI Tools"
     },
     {
-      "description": "👉 See also: Awesome Gemini CLI Extensions Custom commands and extensions that add new capabilities to Gemini CLI.",
+      "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "👉 See also: Awesome Gemini CLI Extensions",
+          "description": "Custom commands and extensions that add new capabilities to Gemini CLI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1055004999,
+            "language": null,
+            "last_commit": "2026-08-14T14:08:41Z",
+            "owner": "Piebald-AI",
+            "repo": "awesome-gemini-cli-extensions",
+            "stars": 65
+          }
+        },
         {
           "node_type": "item",
           "title": "Conductor",
@@ -630,7 +645,7 @@
             "last_commit": "2026-08-24T04:07:06Z",
             "owner": "hyhmrright",
             "repo": "brooks-lint",
-            "stars": 1410
+            "stars": 1411
           }
         },
         {
@@ -720,7 +735,7 @@
             "last_commit": "2026-08-20T18:14:23Z",
             "owner": "plasma-ai",
             "repo": "wiki",
-            "stars": 80
+            "stars": 81
           }
         },
         {
@@ -882,7 +897,7 @@
             "archived": false,
             "id": 552259791,
             "language": "Go",
-            "last_commit": "2026-08-23T13:41:41Z",
+            "last_commit": "2026-08-24T13:52:00Z",
             "owner": "alib8b8",
             "repo": "aflare",
             "stars": 11
@@ -1011,7 +1026,7 @@
             "last_commit": "2026-08-24T06:14:30Z",
             "owner": "numtide",
             "repo": "llm-agents.nix",
-            "stars": 1817
+            "stars": 1819
           }
         },
         {
@@ -1023,7 +1038,7 @@
             "archived": false,
             "id": 1004340390,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T08:04:46Z",
+            "last_commit": "2026-08-24T13:41:51Z",
             "owner": "dyoshikawa",
             "repo": "rulesync",
             "stars": 1341
@@ -1041,7 +1056,7 @@
             "last_commit": "2026-08-22T09:11:37Z",
             "owner": "kbwo",
             "repo": "ccmanager",
-            "stars": 1225
+            "stars": 1226
           }
         },
         {
@@ -1098,7 +1113,7 @@
             "archived": false,
             "id": 1186242047,
             "language": "Swift",
-            "last_commit": "2026-08-18T05:32:38Z",
+            "last_commit": "2026-08-24T08:59:34Z",
             "owner": "sorkila",
             "repo": "lockpaw",
             "stars": 143
@@ -1146,7 +1161,7 @@
             "last_commit": "2026-08-21T03:33:44Z",
             "owner": "MohamedAbdallah-14",
             "repo": "unslop",
-            "stars": 106
+            "stars": 108
           }
         },
         {
@@ -1176,7 +1191,7 @@
             "last_commit": "2026-08-22T13:36:09Z",
             "owner": "Bevel-Software",
             "repo": "Hexis",
-            "stars": 77
+            "stars": 78
           }
         },
         {
@@ -1353,7 +1368,7 @@
             "archived": false,
             "id": 1272963269,
             "language": "Swift",
-            "last_commit": "2026-08-18T05:44:30Z",
+            "last_commit": "2026-08-24T08:46:45Z",
             "owner": "sorkila",
             "repo": "tintpad",
             "stars": 12
@@ -1555,6 +1570,48 @@
       "title": "API Bridges & Proxies"
     },
     {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gemini-cli-prompt-library",
+          "description": "30+ professional prompts for Gemini CLI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1072856801,
+            "language": null,
+            "last_commit": "2025-10-10T06:08:44Z",
+            "owner": "harish-garg",
+            "repo": "gemini-cli-prompt-library",
+            "stars": 413
+          }
+        }
+      ],
+      "title": "Prompts"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Shiori",
+          "description": "Open-source AI study companion powered by Gemini AI. Assignments tracker, SRS flashcards, GPA predictor, AI quiz generator, Pomodoro focus timer, and Claude Code MCP server. Live demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1204562963,
+            "language": "JavaScript",
+            "last_commit": "2026-07-25T10:24:26Z",
+            "owner": "kaorii-ako",
+            "repo": "Shiori-v1",
+            "stars": 44
+          }
+        }
+      ],
+      "title": "Education & Study Tools"
+    },
+    {
       "description": "Model Context Protocol servers that enable Gemini CLI integration with other AI tools.",
       "items": [
         {
@@ -1569,7 +1626,7 @@
             "last_commit": "2026-08-24T02:38:25Z",
             "owner": "IvanMurzak",
             "repo": "Unity-MCP",
-            "stars": 3971
+            "stars": 3973
           }
         },
         {
@@ -1611,10 +1668,10 @@
             "archived": false,
             "id": 1300173275,
             "language": "Go",
-            "last_commit": "2026-08-24T08:06:05Z",
+            "last_commit": "2026-08-24T14:19:32Z",
             "owner": "vshulcz",
             "repo": "deja-vu",
-            "stars": 688
+            "stars": 697
           }
         },
         {
@@ -1656,7 +1713,7 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T05:51:45Z",
+            "last_commit": "2026-08-24T10:52:39Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -1701,7 +1758,7 @@
             "archived": false,
             "id": 1126625946,
             "language": "Rust",
-            "last_commit": "2026-08-24T07:45:52Z",
+            "last_commit": "2026-08-24T14:01:10Z",
             "owner": "supernovae-st",
             "repo": "nika",
             "stars": 56
@@ -1731,7 +1788,7 @@
             "archived": false,
             "id": 1220365832,
             "language": "Rust",
-            "last_commit": "2026-08-24T07:44:20Z",
+            "last_commit": "2026-08-24T14:17:54Z",
             "owner": "Vortx-AI",
             "repo": "emem",
             "stars": 54
@@ -1746,7 +1803,7 @@
             "archived": false,
             "id": 1316178203,
             "language": "Rust",
-            "last_commit": "2026-08-24T05:29:37Z",
+            "last_commit": "2026-08-24T13:46:57Z",
             "owner": "JanYork",
             "repo": "llm-wiki-cli",
             "stars": 47
@@ -2016,7 +2073,7 @@
             "last_commit": "2025-07-31T04:07:59Z",
             "owner": "pauldatta",
             "repo": "gemini-cli-commands-demo",
-            "stars": 93
+            "stars": 92
           }
         },
         {
@@ -2163,7 +2220,7 @@
             "last_commit": "2026-08-22T06:29:05Z",
             "owner": "nowork-studio",
             "repo": "notfair-plugin",
-            "stars": 3395
+            "stars": 3397
           }
         },
         {
@@ -2178,7 +2235,7 @@
             "last_commit": "2026-08-22T06:29:05Z",
             "owner": "nowork-studio",
             "repo": "notfair-plugin",
-            "stars": 3395
+            "stars": 3397
           }
         },
         {
@@ -2201,7 +2258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T08:08:26.596Z",
+    "last_updated": "2026-08-24T14:22:52.407Z",
     "original_repository": "Piebald-AI/awesome-gemini-cli",
     "original_repository_id": 1029161494,
     "original_repository_sha": "a063039dc5dc49292fdbdc57a9b7fbb42c3ffbe3",
