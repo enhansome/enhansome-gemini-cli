@@ -30,7 +30,7 @@
             "last_commit": "2026-08-23T15:48:25Z",
             "owner": "ASCIT31",
             "repo": "Dark-Moon",
-            "stars": 869
+            "stars": 870
           }
         },
         {
@@ -102,7 +102,7 @@
             "archived": false,
             "id": 1146021062,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T06:04:05Z",
+            "last_commit": "2026-08-25T06:18:07Z",
             "owner": "almogdepaz",
             "repo": "wolfpack",
             "stars": 37
@@ -132,7 +132,7 @@
             "archived": false,
             "id": 552259791,
             "language": "Go",
-            "last_commit": "2026-08-25T06:11:35Z",
+            "last_commit": "2026-08-25T06:53:05Z",
             "owner": "alib8b8",
             "repo": "aflare",
             "stars": 12
@@ -201,7 +201,7 @@
             "last_commit": "2026-08-25T02:02:13Z",
             "owner": "google-gemini",
             "repo": "gemini-cli",
-            "stars": 106672
+            "stars": 106675
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2026-08-19T15:29:57Z",
             "owner": "google-gemini",
             "repo": "cookbook",
-            "stars": 17696
+            "stars": 17698
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2026-08-21T16:03:24Z",
             "owner": "google-github-actions",
             "repo": "run-gemini-cli",
-            "stars": 2059
+            "stars": 2060
           }
         }
       ],
@@ -249,10 +249,10 @@
             "archived": false,
             "id": 1033778670,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T04:37:07Z",
+            "last_commit": "2026-08-25T07:03:13Z",
             "owner": "iOfficeAI",
             "repo": "AionUi",
-            "stars": 32260
+            "stars": 32269
           }
         },
         {
@@ -285,10 +285,10 @@
             "archived": false,
             "id": 1008713177,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T06:14:24Z",
+            "last_commit": "2026-08-25T08:02:13Z",
             "owner": "QwenLM",
             "repo": "qwen-code",
-            "stars": 27343
+            "stars": 27345
           }
         },
         {
@@ -315,7 +315,7 @@
             "archived": false,
             "id": 1008626285,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T04:00:27Z",
+            "last_commit": "2026-08-25T06:54:50Z",
             "owner": "vybestack",
             "repo": "llxprt-code",
             "stars": 700
@@ -336,7 +336,7 @@
             "archived": false,
             "id": 1258962324,
             "language": "Python",
-            "last_commit": "2026-08-25T06:02:03Z",
+            "last_commit": "2026-08-25T06:25:33Z",
             "owner": "agentlas-ai",
             "repo": "Agentlas-OS",
             "stars": 1144
@@ -366,10 +366,10 @@
             "archived": false,
             "id": 1188762020,
             "language": "Python",
-            "last_commit": "2026-08-25T05:52:10Z",
+            "last_commit": "2026-08-25T07:56:29Z",
             "owner": "sipyourdrink-ltd",
             "repo": "bernstein",
-            "stars": 982
+            "stars": 984
           }
         },
         {
@@ -411,7 +411,7 @@
             "archived": false,
             "id": 1211796176,
             "language": "C#",
-            "last_commit": "2026-08-24T11:19:10Z",
+            "last_commit": "2026-08-25T07:15:39Z",
             "owner": "Ivy-Interactive",
             "repo": "Ivy-Tendril",
             "stars": 170
@@ -456,7 +456,7 @@
             "archived": false,
             "id": 1279328732,
             "language": "Python",
-            "last_commit": "2026-08-25T06:07:40Z",
+            "last_commit": "2026-08-25T08:02:38Z",
             "owner": "ofekron",
             "repo": "better-agent",
             "stars": 58
@@ -489,7 +489,7 @@
             "last_commit": "2026-08-23T11:29:29Z",
             "owner": "sandbaseai",
             "repo": "cli",
-            "stars": 46
+            "stars": 47
           }
         },
         {
@@ -501,7 +501,7 @@
             "archived": false,
             "id": 1146021062,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T06:04:05Z",
+            "last_commit": "2026-08-25T06:18:07Z",
             "owner": "almogdepaz",
             "repo": "wolfpack",
             "stars": 37
@@ -576,7 +576,7 @@
             "archived": false,
             "id": 1294594135,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T05:56:09Z",
+            "last_commit": "2026-08-25T07:26:39Z",
             "owner": "getdevintern",
             "repo": "devintern",
             "stars": 3
@@ -897,7 +897,7 @@
             "archived": false,
             "id": 552259791,
             "language": "Go",
-            "last_commit": "2026-08-25T06:11:35Z",
+            "last_commit": "2026-08-25T06:53:05Z",
             "owner": "alib8b8",
             "repo": "aflare",
             "stars": 12
@@ -1626,7 +1626,7 @@
             "last_commit": "2026-08-24T23:55:08Z",
             "owner": "IvanMurzak",
             "repo": "Unity-MCP",
-            "stars": 3977
+            "stars": 3978
           }
         },
         {
@@ -1668,10 +1668,10 @@
             "archived": false,
             "id": 1300173275,
             "language": "Go",
-            "last_commit": "2026-08-25T06:13:54Z",
+            "last_commit": "2026-08-25T08:00:09Z",
             "owner": "vshulcz",
             "repo": "deja-vu",
-            "stars": 711
+            "stars": 712
           }
         },
         {
@@ -1713,7 +1713,7 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T06:04:57Z",
+            "last_commit": "2026-08-25T07:55:20Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -1758,7 +1758,7 @@
             "archived": false,
             "id": 1126625946,
             "language": "Rust",
-            "last_commit": "2026-08-25T05:43:17Z",
+            "last_commit": "2026-08-25T07:55:37Z",
             "owner": "supernovae-st",
             "repo": "nika",
             "stars": 58
@@ -1788,7 +1788,7 @@
             "archived": false,
             "id": 1220365832,
             "language": "Rust",
-            "last_commit": "2026-08-25T05:02:33Z",
+            "last_commit": "2026-08-25T07:37:40Z",
             "owner": "Vortx-AI",
             "repo": "emem",
             "stars": 54
@@ -2220,7 +2220,7 @@
             "last_commit": "2026-08-25T04:59:51Z",
             "owner": "nowork-studio",
             "repo": "notfair-plugin",
-            "stars": 3400
+            "stars": 3401
           }
         },
         {
@@ -2235,7 +2235,7 @@
             "last_commit": "2026-08-25T04:59:51Z",
             "owner": "nowork-studio",
             "repo": "notfair-plugin",
-            "stars": 3400
+            "stars": 3401
           }
         },
         {
@@ -2258,7 +2258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:14:59.661Z",
+    "last_updated": "2026-08-25T08:03:50.206Z",
     "original_repository": "Piebald-AI/awesome-gemini-cli",
     "original_repository_id": 1029161494,
     "original_repository_sha": "a063039dc5dc49292fdbdc57a9b7fbb42c3ffbe3",
