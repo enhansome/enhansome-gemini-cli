@@ -12,11 +12,12 @@
             "archived": false,
             "id": 1160727878,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T17:08:41Z",
+            "last_commit": "2026-08-28T09:34:56Z",
             "owner": "johannesjo",
             "repo": "parallel-code",
-            "stars": 997
-          }
+            "stars": 996
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-08-25T10:02:54Z",
             "owner": "ASCIT31",
             "repo": "Dark-Moon",
-            "stars": 875
-          }
+            "stars": 876
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "josstei",
             "repo": "maestro-orchestrate",
             "stars": 459
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "Xquik-dev",
             "repo": "x-twitter-scraper",
             "stars": 189
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "littlebearapps",
             "repo": "untether",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "atxp-dev",
             "repo": "atxp",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -102,11 +108,12 @@
             "archived": false,
             "id": 1146021062,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T05:34:38Z",
+            "last_commit": "2026-08-28T06:21:00Z",
             "owner": "almogdepaz",
             "repo": "wolfpack",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "heurema",
             "repo": "signum",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -132,11 +140,12 @@
             "archived": false,
             "id": 552259791,
             "language": "Go",
-            "last_commit": "2026-08-26T06:05:14Z",
+            "last_commit": "2026-08-28T13:31:33Z",
             "owner": "alib8b8",
             "repo": "aflare",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "caioribeiroclw-pixel",
             "repo": "pluribus",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "nedcodes-ok",
             "repo": "rule-gen",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "davidwiet",
             "repo": "task-monitor",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         }
       ],
       "title": ":tada: New"
@@ -198,11 +210,12 @@
             "archived": false,
             "id": 968197216,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T02:31:17Z",
+            "last_commit": "2026-08-28T17:15:26Z",
             "owner": "google-gemini",
             "repo": "gemini-cli",
-            "stars": 106711
-          }
+            "stars": 106728
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -213,11 +226,12 @@
             "archived": false,
             "id": 771670025,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-27T15:44:54Z",
+            "last_commit": "2026-08-28T06:12:23Z",
             "owner": "google-gemini",
             "repo": "cookbook",
-            "stars": 17705
-          }
+            "stars": 17713
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "google-github-actions",
             "repo": "run-gemini-cli",
             "stars": 2063
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         }
       ],
       "title": "Official"
@@ -249,11 +264,12 @@
             "archived": false,
             "id": 1033778670,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T06:46:42Z",
+            "last_commit": "2026-08-28T14:35:17Z",
             "owner": "iOfficeAI",
             "repo": "AionUi",
-            "stars": 32342
-          }
+            "stars": 32377
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -267,8 +283,9 @@
             "last_commit": "2026-07-13T16:24:37Z",
             "owner": "Piebald-AI",
             "repo": "gemini-cli-desktop",
-            "stars": 495
-          }
+            "stars": 496
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         }
       ],
       "title": "Interfaces"
@@ -285,11 +302,12 @@
             "archived": false,
             "id": 1008713177,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T18:14:37Z",
+            "last_commit": "2026-08-28T19:27:06Z",
             "owner": "QwenLM",
             "repo": "qwen-code",
-            "stars": 27421
-          }
+            "stars": 27460
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -303,8 +321,9 @@
             "last_commit": "2026-03-20T03:00:54Z",
             "owner": "iflow-ai",
             "repo": "iflow-cli",
-            "stars": 5107
-          }
+            "stars": 5104
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -315,11 +334,12 @@
             "archived": false,
             "id": 1008626285,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T18:15:53Z",
+            "last_commit": "2026-08-28T19:16:04Z",
             "owner": "vybestack",
             "repo": "llxprt-code",
             "stars": 699
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         }
       ],
       "title": "Forks"
@@ -336,11 +356,12 @@
             "archived": false,
             "id": 1258962324,
             "language": "Python",
-            "last_commit": "2026-08-27T14:59:28Z",
+            "last_commit": "2026-08-28T18:58:05Z",
             "owner": "agentlas-ai",
             "repo": "Agentlas-OS",
-            "stars": 1099
-          }
+            "stars": 1113
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -351,11 +372,12 @@
             "archived": false,
             "id": 1188762020,
             "language": "Python",
-            "last_commit": "2026-08-27T18:18:00Z",
+            "last_commit": "2026-08-28T19:27:39Z",
             "owner": "sipyourdrink-ltd",
             "repo": "bernstein",
-            "stars": 1011
-          }
+            "stars": 1021
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -366,11 +388,12 @@
             "archived": false,
             "id": 1160727878,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T17:08:41Z",
+            "last_commit": "2026-08-28T09:34:56Z",
             "owner": "johannesjo",
             "repo": "parallel-code",
-            "stars": 997
-          }
+            "stars": 996
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -384,8 +407,9 @@
             "last_commit": "2026-08-09T16:52:44Z",
             "owner": "aannoo",
             "repo": "hcom",
-            "stars": 465
-          }
+            "stars": 467
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -396,11 +420,12 @@
             "archived": false,
             "id": 1236599897,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T17:46:53Z",
+            "last_commit": "2026-08-28T17:12:37Z",
             "owner": "madarco",
             "repo": "agentbox",
-            "stars": 375
-          }
+            "stars": 376
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -411,11 +436,12 @@
             "archived": false,
             "id": 1211796176,
             "language": "C#",
-            "last_commit": "2026-08-27T10:21:54Z",
+            "last_commit": "2026-08-28T17:27:00Z",
             "owner": "Ivy-Interactive",
             "repo": "Ivy-Tendril",
-            "stars": 170
-          }
+            "stars": 172
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -429,8 +455,9 @@
             "last_commit": "2026-08-19T05:04:10Z",
             "owner": "rustykuntz",
             "repo": "clideck",
-            "stars": 152
-          }
+            "stars": 153
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -445,22 +472,24 @@
             "owner": "littlebearapps",
             "repo": "untether",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
           "title": "SandBase CLI",
-          "description": "Open-source CLI and MCP bridge that configures Gemini CLI and other AI coding agents to access 2,000+ AI models through one account.",
+          "description": "Open-source CLI and MCP bridge that configures Gemini CLI and other AI coding agents to access 2,000+ AI models and APIs through one account.",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 1281133792,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T14:25:40Z",
+            "last_commit": "2026-08-28T12:39:42Z",
             "owner": "sandbaseai",
             "repo": "cli",
-            "stars": 60
-          }
+            "stars": 66
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -475,7 +504,8 @@
             "owner": "agents-squads",
             "repo": "squads-cli",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -486,11 +516,12 @@
             "archived": false,
             "id": 1146021062,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T05:34:38Z",
+            "last_commit": "2026-08-28T06:21:00Z",
             "owner": "almogdepaz",
             "repo": "wolfpack",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -505,7 +536,24 @@
             "owner": "intentic",
             "repo": "intentic",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
+        },
+        {
+          "node_type": "item",
+          "title": "godmode",
+          "description": "Discipline layer for AI coding agents: 135 skills and 7 subagents that wrap Gemini CLI (and Claude Code, Codex, Cursor, OpenCode, Amp, and pi) in a measure → modify → verify → keep/revert loop with automatic rollback of failed changes. MIT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1186185215,
+            "language": "Shell",
+            "last_commit": "2026-08-28T15:18:04Z",
+            "owner": "arbazkhan971",
+            "repo": "godmode",
+            "stars": 26
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -520,7 +568,8 @@
             "owner": "rxdt",
             "repo": "loopgate_harness",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -535,7 +584,8 @@
             "owner": "NextProb",
             "repo": "nextprob",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -550,7 +600,8 @@
             "owner": "KernelLord",
             "repo": "pickysteve",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -561,11 +612,12 @@
             "archived": false,
             "id": 1294594135,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T14:55:37Z",
+            "last_commit": "2026-08-28T14:33:28Z",
             "owner": "getdevintern",
             "repo": "devintern",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -580,7 +632,8 @@
             "owner": "Softeria",
             "repo": "postmortemthis",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         }
       ],
       "title": "Agent Orchestration & CLI Tools"
@@ -601,7 +654,8 @@
             "owner": "Piebald-AI",
             "repo": "awesome-gemini-cli-extensions",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -616,7 +670,8 @@
             "owner": "gemini-cli-extensions",
             "repo": "conductor",
             "stars": 3713
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -630,8 +685,9 @@
             "last_commit": "2026-08-24T04:07:06Z",
             "owner": "hyhmrright",
             "repo": "brooks-lint",
-            "stars": 1422
-          }
+            "stars": 1427
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -646,7 +702,8 @@
             "owner": "galdawave",
             "repo": "pickle-rick-extension",
             "stars": 452
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -661,7 +718,8 @@
             "owner": "clduab11",
             "repo": "gemini-flow",
             "stars": 389
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -672,11 +730,12 @@
             "archived": false,
             "id": 1206029526,
             "language": "Python",
-            "last_commit": "2026-08-27T15:41:10Z",
+            "last_commit": "2026-08-28T17:03:43Z",
             "owner": "openaccountants",
             "repo": "openaccountants",
-            "stars": 349
-          }
+            "stars": 350
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -687,11 +746,12 @@
             "archived": false,
             "id": 1194628070,
             "language": "Shell",
-            "last_commit": "2026-08-27T14:40:25Z",
+            "last_commit": "2026-08-28T12:45:06Z",
             "owner": "talkstream",
             "repo": "ru-text",
-            "stars": 219
-          }
+            "stars": 221
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -706,7 +766,8 @@
             "owner": "amitkmaraj",
             "repo": "gemini-cli-custom-slash-commands",
             "stars": 168
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -721,7 +782,8 @@
             "owner": "plasma-ai",
             "repo": "wiki",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -736,7 +798,8 @@
             "owner": "atxp-dev",
             "repo": "atxp",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -751,7 +814,8 @@
             "owner": "xberg-io",
             "repo": "plugins",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -766,7 +830,8 @@
             "owner": "thoreinstein",
             "repo": "gemini-beads",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -781,7 +846,8 @@
             "owner": "thoreinstein",
             "repo": "gemini-notifier",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -796,7 +862,8 @@
             "owner": "drpcorg",
             "repo": "drpc-agent-skills",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -811,7 +878,8 @@
             "owner": "automateyournetwork",
             "repo": "GeminiCLI_ScreenShare_Extension",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -826,7 +894,8 @@
             "owner": "automateyournetwork",
             "repo": "GeminiCLI_Slash_Listen",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -841,7 +910,8 @@
             "owner": "automateyournetwork",
             "repo": "GeminiCLI_Packet_Buddy_Extension",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -856,7 +926,8 @@
             "owner": "d3j",
             "repo": "gemini-cli-on-vscode",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -871,7 +942,8 @@
             "owner": "automateyournetwork",
             "repo": "GeminiCLI_Listen_Extension",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -882,11 +954,12 @@
             "archived": false,
             "id": 552259791,
             "language": "Go",
-            "last_commit": "2026-08-26T06:05:14Z",
+            "last_commit": "2026-08-28T13:31:33Z",
             "owner": "alib8b8",
             "repo": "aflare",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -901,7 +974,8 @@
             "owner": "automateyournetwork",
             "repo": "pyATS_GeminiCLI_Extension",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -916,7 +990,8 @@
             "owner": "davidwiet",
             "repo": "task-monitor",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -931,7 +1006,8 @@
             "owner": "automateyournetwork",
             "repo": "GeminiCLI_SubnetCalculator_Extension",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -946,7 +1022,8 @@
             "owner": "henu-wang",
             "repo": "tokrepo-search-skill",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -961,7 +1038,8 @@
             "owner": "Yamato-main",
             "repo": "gemini-discord",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -976,7 +1054,8 @@
             "owner": "kigiela",
             "repo": "16-eyes",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -991,7 +1070,8 @@
             "owner": "armoriq",
             "repo": "armorGemini",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1006,7 +1086,8 @@
             "owner": "Maksim-Burtsev",
             "repo": "punchcard",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         }
       ],
       "title": "Commands & Extensions"
@@ -1023,11 +1104,12 @@
             "archived": false,
             "id": 1022026685,
             "language": "Nix",
-            "last_commit": "2026-08-27T14:44:26Z",
+            "last_commit": "2026-08-28T07:19:14Z",
             "owner": "numtide",
             "repo": "llm-agents.nix",
-            "stars": 1838
-          }
+            "stars": 1841
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1038,11 +1120,12 @@
             "archived": false,
             "id": 1004340390,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T09:56:54Z",
+            "last_commit": "2026-08-28T12:01:05Z",
             "owner": "dyoshikawa",
             "repo": "rulesync",
-            "stars": 1354
-          }
+            "stars": 1358
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1056,8 +1139,9 @@
             "last_commit": "2026-08-26T09:28:15Z",
             "owner": "kbwo",
             "repo": "ccmanager",
-            "stars": 1229
-          }
+            "stars": 1230
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1068,11 +1152,12 @@
             "archived": false,
             "id": 1060421643,
             "language": "Swift",
-            "last_commit": "2026-08-24T02:14:22Z",
+            "last_commit": "2026-08-27T22:38:13Z",
             "owner": "jazzyalex",
             "repo": "agent-sessions",
             "stars": 819
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1083,11 +1168,12 @@
             "archived": false,
             "id": 1146336156,
             "language": "Rust",
-            "last_commit": "2026-08-27T14:04:54Z",
+            "last_commit": "2026-08-27T21:32:52Z",
             "owner": "agent-sh",
             "repo": "agnix",
-            "stars": 397
-          }
+            "stars": 399
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1102,7 +1188,8 @@
             "owner": "Piebald-AI",
             "repo": "splitrail",
             "stars": 218
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1116,8 +1203,9 @@
             "last_commit": "2026-08-24T08:59:34Z",
             "owner": "sorkila",
             "repo": "lockpaw",
-            "stars": 144
-          }
+            "stars": 145
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1131,8 +1219,9 @@
             "last_commit": "2026-08-22T22:41:02Z",
             "owner": "BA-CalderonMorales",
             "repo": "terminal-jarvis",
-            "stars": 132
-          }
+            "stars": 133
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1146,8 +1235,9 @@
             "last_commit": "2026-08-24T01:09:37Z",
             "owner": "luoyuctl",
             "repo": "agenttrace",
-            "stars": 123
-          }
+            "stars": 124
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1161,8 +1251,9 @@
             "last_commit": "2026-08-21T03:33:44Z",
             "owner": "MohamedAbdallah-14",
             "repo": "unslop",
-            "stars": 119
-          }
+            "stars": 120
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1176,8 +1267,9 @@
             "last_commit": "2026-07-24T23:13:46Z",
             "owner": "agentrhq",
             "repo": "authsome",
-            "stars": 83
-          }
+            "stars": 84
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1188,11 +1280,12 @@
             "archived": false,
             "id": 1317304497,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T17:53:54Z",
+            "last_commit": "2026-08-28T17:36:54Z",
             "owner": "Bevel-Software",
             "repo": "Hexis",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1207,7 +1300,8 @@
             "owner": "nicepkg",
             "repo": "vsync",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1222,7 +1316,8 @@
             "owner": "Fmarzochi",
             "repo": "EGC",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1237,7 +1332,8 @@
             "owner": "swarmclawai",
             "repo": "andrej-karpathy-skills",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1251,8 +1347,9 @@
             "last_commit": "2026-04-26T05:49:17Z",
             "owner": "yujiachen-y",
             "repo": "codebase-recon-skill",
-            "stars": 35
-          }
+            "stars": 36
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1267,7 +1364,8 @@
             "owner": "stevenAthompson",
             "repo": "self-command",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1282,7 +1380,8 @@
             "owner": "tgagor",
             "repo": "docker-gemini-cli",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1297,7 +1396,8 @@
             "owner": "anthony-chaudhary",
             "repo": "dos-kernel",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1312,7 +1412,8 @@
             "owner": "heurema",
             "repo": "signum",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1327,7 +1428,8 @@
             "owner": "The-Untitled-Org",
             "repo": "wasla",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1342,7 +1444,8 @@
             "owner": "Manamama",
             "repo": "Puzzles_for_AIs",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1357,7 +1460,8 @@
             "owner": "mishanefedov",
             "repo": "agentwatch",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1372,7 +1476,8 @@
             "owner": "sorkila",
             "repo": "tintpad",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1387,7 +1492,8 @@
             "owner": "caioribeiroclw-pixel",
             "repo": "pluribus",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1402,7 +1508,8 @@
             "owner": "nedcodes-ok",
             "repo": "rule-gen",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1417,7 +1524,8 @@
             "owner": "Brattlof",
             "repo": "skillet",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1432,7 +1540,8 @@
             "owner": "nordluf",
             "repo": "gemini-dockerized-cli",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         }
       ],
       "title": "Development Tools & Utilities"
@@ -1453,7 +1562,8 @@
             "owner": "ben-vargas",
             "repo": "ai-sdk-provider-gemini-cli",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1468,7 +1578,8 @@
             "owner": "oneryalcin",
             "repo": "gemini-cli-sdk",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         }
       ],
       "title": "SDKs"
@@ -1488,8 +1599,9 @@
             "last_commit": "2026-08-26T04:10:57Z",
             "owner": "GewoonJaap",
             "repo": "gemini-cli-openai",
-            "stars": 894
-          }
+            "stars": 895
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1504,7 +1616,8 @@
             "owner": "gzzhongqi",
             "repo": "geminicli2api",
             "stars": 594
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1519,7 +1632,8 @@
             "owner": "print-yuhuan",
             "repo": "Gemini-CLI-Termux",
             "stars": 173
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1534,7 +1648,8 @@
             "owner": "nettee",
             "repo": "gemini-cli-proxy",
             "stars": 152
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1549,7 +1664,8 @@
             "owner": "Intelligent-Internet",
             "repo": "gemini-cli-mcp-openai-bridge",
             "stars": 138
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1564,7 +1680,8 @@
             "owner": "Brioch",
             "repo": "gemini-openai-proxy",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         }
       ],
       "title": "API Bridges & Proxies"
@@ -1585,7 +1702,8 @@
             "owner": "harish-garg",
             "repo": "gemini-cli-prompt-library",
             "stars": 413
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         }
       ],
       "title": "Prompts"
@@ -1606,7 +1724,8 @@
             "owner": "kaorii-ako",
             "repo": "Shiori-v1",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         }
       ],
       "title": "Education & Study Tools"
@@ -1626,8 +1745,9 @@
             "last_commit": "2026-08-24T23:55:08Z",
             "owner": "IvanMurzak",
             "repo": "Unity-MCP",
-            "stars": 3999
-          }
+            "stars": 4009
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1642,7 +1762,8 @@
             "owner": "jamubc",
             "repo": "gemini-mcp-tool",
             "stars": 2279
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1656,8 +1777,9 @@
             "last_commit": "2026-08-03T18:44:59Z",
             "owner": "vostride",
             "repo": "agent-qa",
-            "stars": 860
-          }
+            "stars": 899
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1668,11 +1790,12 @@
             "archived": false,
             "id": 1300173275,
             "language": "Go",
-            "last_commit": "2026-08-27T18:18:27Z",
+            "last_commit": "2026-08-28T19:27:05Z",
             "owner": "vshulcz",
             "repo": "deja-vu",
-            "stars": 731
-          }
+            "stars": 734
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1686,8 +1809,9 @@
             "last_commit": "2026-08-24T22:49:14Z",
             "owner": "IvanMurzak",
             "repo": "Godot-MCP",
-            "stars": 225
-          }
+            "stars": 226
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1702,7 +1826,8 @@
             "owner": "Xquik-dev",
             "repo": "x-twitter-scraper",
             "stars": 189
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1713,11 +1838,12 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T16:01:16Z",
+            "last_commit": "2026-08-28T19:26:10Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 129
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1732,7 +1858,8 @@
             "owner": "tanaikech",
             "repo": "ToolsForMCPServer",
             "stars": 106
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1747,7 +1874,8 @@
             "owner": "choplin",
             "repo": "mcp-gemini-cli",
             "stars": 101
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1758,11 +1886,12 @@
             "archived": false,
             "id": 1126625946,
             "language": "Rust",
-            "last_commit": "2026-08-27T10:10:32Z",
+            "last_commit": "2026-08-28T09:28:46Z",
             "owner": "supernovae-st",
             "repo": "nika",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1777,7 +1906,8 @@
             "owner": "runapi-ai",
             "repo": "mcp",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1788,11 +1918,12 @@
             "archived": false,
             "id": 1220365832,
             "language": "Rust",
-            "last_commit": "2026-08-27T18:03:51Z",
+            "last_commit": "2026-08-27T20:06:34Z",
             "owner": "Vortx-AI",
             "repo": "emem",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1807,7 +1938,8 @@
             "owner": "JanYork",
             "repo": "llm-wiki-cli",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1822,7 +1954,8 @@
             "owner": "InfolabAI",
             "repo": "gemini-cli-mcp",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1836,8 +1969,9 @@
             "last_commit": "2026-08-24T23:14:17Z",
             "owner": "IvanMurzak",
             "repo": "Unreal-MCP",
-            "stars": 25
-          }
+            "stars": 27
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1852,7 +1986,8 @@
             "owner": "MohamedAbdallah-14",
             "repo": "prompt-to-asset",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1867,7 +2002,8 @@
             "owner": "hjqcan",
             "repo": "GoodMemory",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1882,7 +2018,8 @@
             "owner": "Lians-ai",
             "repo": "Lians",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1897,7 +2034,8 @@
             "owner": "IvanMurzak",
             "repo": "GameDev-MCP-Server",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1912,7 +2050,8 @@
             "owner": "neriousy",
             "repo": "gemini-mcp",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1923,11 +2062,12 @@
             "archived": false,
             "id": 1300999234,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T00:06:40Z",
+            "last_commit": "2026-08-28T18:45:34Z",
             "owner": "agentage",
             "repo": "find-mcp",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1942,7 +2082,8 @@
             "owner": "lusha-oss",
             "repo": "lusha-mcp-plugin",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1957,7 +2098,8 @@
             "owner": "henu-wang",
             "repo": "tokrepo-mcp-server",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         }
       ],
       "title": "MCP Servers"
@@ -1978,7 +2120,8 @@
             "owner": "gutsavgupta",
             "repo": "nvim-gemini-companion",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -1993,7 +2136,8 @@
             "owner": "JonRoosevelt",
             "repo": "gemini-cli.nvim",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -2008,7 +2152,8 @@
             "owner": "JunYang-tes",
             "repo": "agents-parter.nvim",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         }
       ],
       "title": "Neovim Plugins"
@@ -2029,7 +2174,8 @@
             "owner": "josstei",
             "repo": "maestro-orchestrate",
             "stars": 459
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -2044,7 +2190,8 @@
             "owner": "Theopsguide",
             "repo": "gemini-code-flow",
             "stars": 159
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -2059,7 +2206,8 @@
             "owner": "openmule",
             "repo": "gacua",
             "stars": 138
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -2074,7 +2222,8 @@
             "owner": "pauldatta",
             "repo": "gemini-cli-commands-demo",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -2089,7 +2238,8 @@
             "owner": "heymegabyte",
             "repo": "claude-skills",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         }
       ],
       "title": "Frameworks"
@@ -2109,8 +2259,9 @@
             "last_commit": "2025-10-19T03:25:32Z",
             "owner": "addyosmani",
             "repo": "gemini-cli-tips",
-            "stars": 2369
-          }
+            "stars": 2370
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -2125,7 +2276,8 @@
             "owner": "philschmid",
             "repo": "gemini-cli-extension",
             "stars": 148
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -2140,7 +2292,8 @@
             "owner": "markmcd",
             "repo": "gemini-docs-ext",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -2155,7 +2308,8 @@
             "owner": "vladkol",
             "repo": "gemini-cli-media-generation",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -2170,7 +2324,8 @@
             "owner": "palladius",
             "repo": "gemini-cli-demos",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -2185,7 +2340,8 @@
             "owner": "ptone",
             "repo": "cli-demo-cookbook",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -2200,7 +2356,8 @@
             "owner": "ykdojo",
             "repo": "antigravity-cli-tips",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         }
       ],
       "title": "Documentation & Examples"
@@ -2220,8 +2377,9 @@
             "last_commit": "2026-08-26T00:18:45Z",
             "owner": "nowork-studio",
             "repo": "notfair-plugin",
-            "stars": 3419
-          }
+            "stars": 3425
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -2235,8 +2393,9 @@
             "last_commit": "2026-08-26T00:18:45Z",
             "owner": "nowork-studio",
             "repo": "notfair-plugin",
-            "stars": 3419
-          }
+            "stars": 3425
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         },
         {
           "node_type": "item",
@@ -2251,24 +2410,25 @@
             "owner": "abduznik",
             "repo": "Git-Alchemist",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
         }
       ],
       "title": "Non-Gemini CLI"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T18:19:48.568Z",
+    "last_updated": "2026-08-28T19:29:16.149Z",
     "original_repository_info": {
       "archived": false,
       "id": 1029161494,
       "language": null,
-      "last_commit": "2026-08-25T21:32:36Z",
+      "last_commit": "2026-08-28T14:08:55Z",
       "owner": "Piebald-AI",
       "repo": "awesome-gemini-cli",
       "stars": 497
     },
-    "original_repository_sha": "c1c5a74040564bae05ac46376004ce5894dcfa16",
+    "original_repository_sha": "9061cbbdc7932763062864d7ee62cb357a5d20a7",
     "enhanced_repository": "enhansome/enhansome-gemini-cli",
     "enhanced_repository_description": null,
     "title": "Awesome Gemini CLI with stars"
