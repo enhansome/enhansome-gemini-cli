@@ -10,12 +10,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run Claude Code, Codex, and Gemini side by side — each in      its own git worktree",
+            "homepage": "https://parallelcode.app",
             "id": 1160727878,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T09:34:56Z",
+            "open_issues": 49,
             "owner": "johannesjo",
             "repo": "parallel-code",
-            "stars": 996
+            "stars": 996,
+            "topics": [
+              "ai-agents",
+              "ai-coding",
+              "ai-tools",
+              "claude-code",
+              "codex-cli",
+              "coding-agent",
+              "developer-tools",
+              "gemini-cli",
+              "git-worktree",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -26,12 +42,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Autonomous AI pentesting engine, continuous offensive security across web, cloud, identity, CI/CD, IaC, databases, Active Directory, Kubernetes and IoT firmware. Agentic reasoning plus real exploit execution deliver proof-based vulnerabilities. Privacy gateway: the LLM never sees your real IPs, hosts or creds, nothing leaves your perimeter.",
+            "homepage": "https://dark-moon.org/",
             "id": 894433723,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-25T10:02:54Z",
+            "open_issues": 3,
             "owner": "ASCIT31",
             "repo": "Dark-Moon",
-            "stars": 876
+            "stars": 877,
+            "topics": [
+              "active-directory",
+              "ai-agents",
+              "ai-red-team",
+              "ai-security-tool",
+              "autonomous-agents",
+              "cloud-security",
+              "firmware-security",
+              "iot-security",
+              "kubernetes",
+              "llm",
+              "local-llm",
+              "mcp",
+              "multi-agent-systems",
+              "offensive-security",
+              "penetration-testing",
+              "pentesting",
+              "red-team",
+              "security-automation",
+              "security-tools",
+              "self-hosted"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -42,12 +84,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multi-agent orchestration platform for Gemini CLI, Claude Code, Codex, and Qwen Code — 39 specialists, parallel subagents, persistent sessions, and built-in code review, debugging, security, SEO, accessibility, and compliance tools",
+            "homepage": "https://josstei.github.io/maestro-orchestrate/",
             "id": 1153318872,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-07T07:00:06Z",
+            "open_issues": 7,
             "owner": "josstei",
             "repo": "maestro-orchestrate",
-            "stars": 459
+            "stars": 459,
+            "topics": [
+              "agentic",
+              "ai-agents",
+              "anthropic",
+              "claude",
+              "claude-code",
+              "claude-code-plugin",
+              "code-review",
+              "codex-cli",
+              "codex-plugin",
+              "developer-tools",
+              "gemini",
+              "gemini-cli",
+              "gemini-cli-extension",
+              "gemini-extension",
+              "multi-agent",
+              "openai-codex",
+              "orchestration",
+              "qwen",
+              "qwen-code",
+              "subagents"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -58,12 +126,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Xquik is the best X (Twitter) Scraper API and the best X API Alternative, with REST, MCP, SDKs, CLI, webhooks, and exports. Not affiliated with X Corp.",
+            "homepage": "https://xquik.com",
             "id": 1168120544,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T01:44:18Z",
+            "open_issues": 2,
             "owner": "Xquik-dev",
             "repo": "x-twitter-scraper",
-            "stars": 189
+            "stars": 189,
+            "topics": [
+              "advanced-search",
+              "agent-skill",
+              "ai-agent",
+              "data-extraction",
+              "follower-export",
+              "mcp",
+              "mcp-server",
+              "profile-tweets",
+              "sdk",
+              "social-media-api",
+              "social-media-automation",
+              "tweet-search",
+              "twitter-api",
+              "twitter-api-alternative",
+              "twitter-automation",
+              "twitter-scraper",
+              "twitter-scraper-api",
+              "x-api",
+              "x-api-alternative",
+              "xquik"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -74,12 +168,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code from anywhere — Telegram bridge for AI coding agents (Claude Code, Codex, OpenCode, Pi, Gemini CLI, Amp). Stream progress, approve actions, and send tasks by voice from your phone.",
+            "homepage": "https://untether.cc",
             "id": 1152042352,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T21:45:35Z",
+            "open_issues": 172,
             "owner": "littlebearapps",
             "repo": "untether",
-            "stars": 66
+            "stars": 66,
+            "topics": [
+              "ai-agents",
+              "claude-code",
+              "cli",
+              "cli-tools",
+              "codex",
+              "codex-cli",
+              "coding-assistant",
+              "developer-tools",
+              "gemini-cli",
+              "opencode",
+              "pi",
+              "python",
+              "remote-control",
+              "remote-development",
+              "telegram",
+              "telegram-bot"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -90,12 +206,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Give your AI agent a wallet, email, phone number, and instant access to paid MCP tools — web search, image/video/music gen, X search, SMS, voice calls, code execution, and more. Works with Gemini CLI, Claude, and any MCP client.",
+            "homepage": "https://atxp.ai",
             "id": 1165135808,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-03T20:25:44Z",
+            "open_issues": 9,
             "owner": "atxp-dev",
             "repo": "atxp",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "agent-infrastructure",
+              "agent-payments",
+              "agent-tools",
+              "ai-agent",
+              "ai-payments",
+              "ai-wallet",
+              "atxp",
+              "gemini-cli",
+              "gemini-cli-extension",
+              "mcp",
+              "mcp-server",
+              "mcp-tools",
+              "model-context-protocol"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -106,12 +241,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self-hosted browser terminal manager for AI coding agents. Control Claude Code, Codex, Gemini, and shell sessions from your phone or browser over Tailscale.",
+            "homepage": "https://get-wolfpack.netlify.app/",
             "id": 1146021062,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T06:21:00Z",
+            "open_issues": 7,
             "owner": "almogdepaz",
             "repo": "wolfpack",
-            "stars": 37
+            "stars": 38,
+            "topics": [
+              "ai-coding",
+              "browser-terminal",
+              "claude",
+              "claude-code",
+              "codex",
+              "coding-agents",
+              "developer-tools",
+              "gemini",
+              "multi-agent",
+              "multi-machine",
+              "pwa",
+              "remote-development",
+              "remote-terminal",
+              "self-hosted",
+              "tailnet",
+              "tailscale",
+              "terminal",
+              "terminal-dashboard",
+              "tmux",
+              "web-terminal"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -122,12 +283,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Risk-adaptive development pipeline with adversarial consensus code review",
+            "homepage": "https://skill7.dev/signum",
             "id": 1166408961,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-07-20T17:46:49Z",
+            "open_issues": 2,
             "owner": "heurema",
             "repo": "signum",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "ai-agent",
+              "anthropic",
+              "claude",
+              "claude-code",
+              "claude-code-plugin",
+              "code-review",
+              "development-pipeline"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -138,12 +312,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "个人优先的本地自动化 Agent · AI 与你的数据之间确定且安全的控制层 · 数据不出本地 · 连接你自己的 LLM / 文件 / 笔记 / 数据库（Connector API） · ReAct 推理 · 确定性工作流执行（DAG/WAL/Saga/幂等） · MCP 协议 · 离线可用",
+            "homepage": "https://github.com/alib8b8/aflare",
             "id": 552259791,
             "language": "Go",
-            "last_commit": "2026-08-28T13:31:33Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:39:09Z",
+            "open_issues": 1,
             "owner": "alib8b8",
             "repo": "aflare",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "agent",
+              "automation",
+              "connector",
+              "dag",
+              "data-protection",
+              "dsh",
+              "dsh-plugin",
+              "files",
+              "go",
+              "llm",
+              "local-first",
+              "mcp",
+              "notes",
+              "offline",
+              "ollama",
+              "personal-data",
+              "privacy",
+              "rag",
+              "saga",
+              "sqlite"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -154,12 +354,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sync one reviewed context source into native AI-agent files, with privacy-safe evidence receipts that never confuse generation with runtime load.",
+            "homepage": "https://caioribeiroclw-pixel.github.io/pluribus/context-sync-demo.html",
             "id": 1175998099,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-18T15:55:54Z",
+            "open_issues": 7,
             "owner": "caioribeiroclw-pixel",
             "repo": "pluribus",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "agent-skills",
+              "agents-md",
+              "ai-agent-observability",
+              "ai-agents",
+              "ai-coding-agents",
+              "ai-context",
+              "ai-tools",
+              "claude-code",
+              "context-drift",
+              "context-engineering",
+              "context-management",
+              "context-receipts",
+              "context-sharing",
+              "copilot-instructions",
+              "cursor",
+              "cursor-rules",
+              "developer-tools",
+              "mcp",
+              "openclaw",
+              "project-memory"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -170,12 +396,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate AI coding rules from your actual source code, powered by Google Gemini. npx rulegen-ai",
+            "homepage": "https://nedcodes.dev",
             "id": 1168889794,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-06T02:08:56Z",
+            "open_issues": 1,
             "owner": "nedcodes-ok",
             "repo": "rule-gen",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "ai-coding",
+              "cli",
+              "code-generation",
+              "cursor",
+              "cursor-ai",
+              "cursor-rules",
+              "mdc"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -186,12 +425,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Autonomous agent operational guardrails for Gemini CLI",
+            "homepage": null,
             "id": 1184763938,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-18T19:58:44Z",
+            "open_issues": 0,
             "owner": "davidwiet",
             "repo": "task-monitor",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         }
@@ -208,12 +452,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+            "homepage": "https://geminicli.com",
             "id": 968197216,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T17:15:26Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T01:56:42Z",
+            "open_issues": 867,
             "owner": "google-gemini",
             "repo": "gemini-cli",
-            "stars": 106728
+            "stars": 106735,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "cli",
+              "gemini",
+              "gemini-api",
+              "mcp-client",
+              "mcp-server"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -224,12 +481,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Examples and guides for using the Gemini API",
+            "homepage": "https://ai.google.dev/gemini-api/docs",
             "id": 771670025,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T06:12:23Z",
+            "open_issues": 37,
             "owner": "google-gemini",
             "repo": "cookbook",
-            "stars": 17713
+            "stars": 17715,
+            "topics": [
+              "gemini",
+              "gemini-api"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -240,12 +505,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A GitHub Action invoking the Gemini CLI.",
+            "homepage": "https://github.com/google-gemini/gemini-cli",
             "id": 1018098280,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-21T16:03:24Z",
+            "open_issues": 83,
             "owner": "google-github-actions",
             "repo": "run-gemini-cli",
-            "stars": 2063
+            "stars": 2063,
+            "topics": [
+              "actions",
+              "ai",
+              "gcp",
+              "gemini",
+              "gemini-cli",
+              "github-actions",
+              "google-cloud",
+              "google-cloud-platform"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         }
@@ -262,12 +541,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!",
+            "homepage": "https://www.aionui.com",
             "id": 1033778670,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T14:35:17Z",
+            "open_issues": 861,
             "owner": "iOfficeAI",
             "repo": "AionUi",
-            "stars": 32377
+            "stars": 32386,
+            "topics": [
+              "acp",
+              "agent-team",
+              "ai",
+              "ai-agent",
+              "chat",
+              "chatbot",
+              "claude-code",
+              "clawdbot",
+              "codex",
+              "cowork",
+              "gemini",
+              "gemini-cli",
+              "hermes",
+              "llm",
+              "nano-banana",
+              "office",
+              "openclaw",
+              "opencode",
+              "skills",
+              "webui"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -278,12 +583,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web/desktop UI for Gemini CLI/Qwen Code.  Manage projects, switch between tools, search across past conversations, and manage MCP servers, all from one multilingual interface, locally or remotely.",
+            "homepage": null,
             "id": 1027211793,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-13T16:24:37Z",
+            "open_issues": 26,
             "owner": "Piebald-AI",
             "repo": "gemini-cli-desktop",
-            "stars": 496
+            "stars": 496,
+            "topics": [
+              "agent-client-protocol",
+              "agentic",
+              "cross-platform",
+              "desktop",
+              "desktop-app",
+              "development",
+              "gemini",
+              "gemini-api",
+              "gemini-cli",
+              "gemini-cli-ui",
+              "gemini-cli-web",
+              "gemini-desktop",
+              "gemini-ui",
+              "multilingual",
+              "qwen",
+              "qwen-code",
+              "qwen3-coder",
+              "tauri",
+              "web",
+              "webapp"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         }
@@ -300,12 +631,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source AI coding agent that lives in your terminal.",
+            "homepage": "https://qwenlm.github.io/qwen-code-docs/en/users/overview",
             "id": 1008713177,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T19:27:06Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:40:52Z",
+            "open_issues": 1309,
             "owner": "QwenLM",
             "repo": "qwen-code",
-            "stars": 27460
+            "stars": 27468,
+            "topics": [
+              "agentic",
+              "ai",
+              "ai-agent",
+              "ai-coding",
+              "cli",
+              "coding-agent",
+              "developer-tools",
+              "llm",
+              "mcp",
+              "qwen",
+              "terminal",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -316,12 +665,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "iFlow cli is a comprehensive command-line intelligence that embeds in your terminal, analyzes your repositories, does coding tasks, interprets your needs across contexts, and boosts efficiency by performing tasks from simple file operations to complex workflow automation.",
+            "homepage": "https://cli.iflow.cn/?",
             "id": 1026964974,
             "language": "Shell",
+            "license": null,
             "last_commit": "2026-03-20T03:00:54Z",
+            "open_issues": 85,
             "owner": "iflow-ai",
             "repo": "iflow-cli",
-            "stars": 5104
+            "stars": 5104,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -332,12 +686,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source multi-provider AI assisted CLI development tool. Use whatever LLM you want to code in your terminal.",
+            "homepage": "http://vybestack.dev",
             "id": 1008626285,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T19:16:04Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T23:56:26Z",
+            "open_issues": 273,
             "owner": "vybestack",
             "repo": "llxprt-code",
-            "stars": 699
+            "stars": 699,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         }
@@ -354,12 +713,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
+            "homepage": "https://agentlas.cloud",
             "id": 1258962324,
             "language": "Python",
-            "last_commit": "2026-08-28T18:58:05Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T20:13:09Z",
+            "open_issues": 0,
             "owner": "agentlas-ai",
             "repo": "Agentlas-OS",
-            "stars": 1113
+            "stars": 1115,
+            "topics": [
+              "a2a",
+              "agent",
+              "agent-framework",
+              "agent-os-desktop",
+              "agent-skills",
+              "agentic-ai",
+              "agentic-workflow",
+              "agentos",
+              "agents",
+              "agents-team",
+              "agentshub",
+              "ai-agents",
+              "autonomous-agents",
+              "llm",
+              "llm-agents",
+              "llm-tools",
+              "mcp",
+              "multi-agent-systems",
+              "ochestration"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -370,12 +754,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deterministic orchestrator for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). No model in the coordination loop, so parallel runs in per-task git worktrees replay byte-identically. Signed lineage plus an opt-in HMAC audit chain a reviewer checks offline. Cluster mode, air-gap deploy. Status: beta. https://bernstein.run",
+            "homepage": "https://bernstein.run",
             "id": 1188762020,
             "language": "Python",
-            "last_commit": "2026-08-28T19:27:39Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:13:45Z",
+            "open_issues": 141,
             "owner": "sipyourdrink-ltd",
             "repo": "bernstein",
-            "stars": 1021
+            "stars": 1026,
+            "topics": [
+              "agent-fleet",
+              "agent-infrastructure",
+              "agent-orchestrator",
+              "agent-swarm",
+              "ai-orchestration",
+              "aider",
+              "air-gap",
+              "attestation",
+              "audit-log",
+              "audit-trail",
+              "autonomous-coding",
+              "deterministic-replay",
+              "git-worktree",
+              "git-worktrees",
+              "llm-orchestration",
+              "orchestrator",
+              "parallel-agents",
+              "provenance",
+              "reproducibility",
+              "tamper-evident"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -386,12 +796,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run Claude Code, Codex, and Gemini side by side — each in      its own git worktree",
+            "homepage": "https://parallelcode.app",
             "id": 1160727878,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T09:34:56Z",
+            "open_issues": 49,
             "owner": "johannesjo",
             "repo": "parallel-code",
-            "stars": 996
+            "stars": 996,
+            "topics": [
+              "ai-agents",
+              "ai-coding",
+              "ai-tools",
+              "claude-code",
+              "codex-cli",
+              "coding-agent",
+              "developer-tools",
+              "gemini-cli",
+              "git-worktree",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -402,12 +828,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Let AI agents message, watch, and spawn each other across terminals. Claude Code, Codex, Antigravity CLI, Cursor CLI, OpenCode, Kilo, Pi, Kimi",
+            "homepage": "https://pypi.org/project/hcom/",
             "id": 1023335896,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-09T16:52:44Z",
+            "open_issues": 34,
             "owner": "aannoo",
             "repo": "hcom",
-            "stars": 467
+            "stars": 468,
+            "topics": [
+              "agent",
+              "agent-skills",
+              "ai",
+              "ai-agents",
+              "ai-tools",
+              "antigravity",
+              "automation",
+              "claude",
+              "claude-code",
+              "claude-code-hooks",
+              "cli",
+              "codex",
+              "communication",
+              "cursor-ai",
+              "developer-tools",
+              "multi-agent",
+              "opencode",
+              "orchestration",
+              "pi-coding-agent",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -418,12 +870,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run multiple agents in parallel sandboxed VMs, with a single command, on your PC or in the cloud",
+            "homepage": "https://agent-box.sh",
             "id": 1236599897,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T17:12:37Z",
+            "open_issues": 2,
             "owner": "madarco",
             "repo": "agentbox",
-            "stars": 376
+            "stars": 377,
+            "topics": [
+              "claude",
+              "claude-code",
+              "cli",
+              "cmux",
+              "codex",
+              "codex-cli",
+              "coding-agents",
+              "developer-tools",
+              "docker",
+              "grok-build",
+              "harness",
+              "herdr-plugin",
+              "iterm2",
+              "opencode",
+              "sandbox",
+              "tmux"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -434,12 +908,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI agents can now write 99% of the code. This changes what it means to be a developer. Our role shifts to knowing \"what good looks like\". To do that, we need completely new developer tools. Tendril is what replaces your IDE in an agentic era. ",
+            "homepage": "https://ivy.app",
             "id": 1211796176,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T17:27:00Z",
+            "open_issues": 142,
             "owner": "Ivy-Interactive",
             "repo": "Ivy-Tendril",
-            "stars": 172
+            "stars": 173,
+            "topics": [
+              "agentic-coding",
+              "agentic-workflow",
+              "chatgpt",
+              "claude-code",
+              "codex",
+              "gemini",
+              "git",
+              "opencode",
+              "software-factory"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -450,28 +939,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A dashboard for running and coordinating multiple AI CLI agents at once.",
+            "homepage": "https://clideck.dev",
             "id": 1171326533,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-19T05:04:10Z",
+            "open_issues": 3,
             "owner": "rustykuntz",
             "repo": "clideck",
-            "stars": 153
-          },
-          "first_seen": "2026-08-28T19:29:16.149Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Untether",
-          "description": "Telegram bridge for Gemini CLI (and 5 other agents). Send tasks by voice, stream progress, configure approval mode (read-only/edit files/full access) via inline buttons. Self-hosted, MIT licensed.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1152042352,
-            "language": "Python",
-            "last_commit": "2026-08-24T21:45:35Z",
-            "owner": "littlebearapps",
-            "repo": "untether",
-            "stars": 66
+            "stars": 153,
+            "topics": [
+              "ai-agents",
+              "ai-coding",
+              "claude",
+              "claude-code",
+              "cli",
+              "codex",
+              "coding-agents",
+              "developer-tools",
+              "gemini-cli",
+              "terminal-multiplexer",
+              "tmux-alternative"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -482,12 +972,76 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source AI CLI and local MCP server connecting 25 clients—Claude Code, Cursor, Codex, ChatGPT, Hermes, and OpenClaw—to 2,000+ models/APIs, with OAuth and rollback.",
+            "homepage": "https://sandbaseai.github.io/cli/",
             "id": 1281133792,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T12:39:42Z",
+            "open_issues": 2,
             "owner": "sandbaseai",
             "repo": "cli",
-            "stars": 66
+            "stars": 69,
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "ai-coding",
+              "ai-gateway",
+              "chatgpt",
+              "claude-code",
+              "cli",
+              "codex",
+              "cursor",
+              "gemini-cli",
+              "hermes-agent",
+              "llm",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "model-routing",
+              "multimodal-ai",
+              "openclaw",
+              "opencode",
+              "windsurf"
+            ]
+          },
+          "first_seen": "2026-08-28T19:29:16.149Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Untether",
+          "description": "Telegram bridge for Gemini CLI (and 5 other agents). Send tasks by voice, stream progress, configure approval mode (read-only/edit files/full access) via inline buttons. Self-hosted, MIT licensed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Code from anywhere — Telegram bridge for AI coding agents (Claude Code, Codex, OpenCode, Pi, Gemini CLI, Amp). Stream progress, approve actions, and send tasks by voice from your phone.",
+            "homepage": "https://untether.cc",
+            "id": 1152042352,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-08-24T21:45:35Z",
+            "open_issues": 172,
+            "owner": "littlebearapps",
+            "repo": "untether",
+            "stars": 66,
+            "topics": [
+              "ai-agents",
+              "claude-code",
+              "cli",
+              "cli-tools",
+              "codex",
+              "codex-cli",
+              "coding-assistant",
+              "developer-tools",
+              "gemini-cli",
+              "opencode",
+              "pi",
+              "python",
+              "remote-control",
+              "remote-development",
+              "telegram",
+              "telegram-bot"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -498,12 +1052,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CLI for managing AI agent squads. Status, memory, goals, feedback, and dashboard for your autonomous agents.",
+            "homepage": "https://agents-squads.com",
             "id": 1124978518,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-14T13:12:45Z",
+            "open_issues": 55,
             "owner": "agents-squads",
             "repo": "squads-cli",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "agent-framework",
+              "agentic-ai",
+              "ai-agents",
+              "ai-workforce",
+              "anthropic",
+              "autonomous-agents",
+              "claude",
+              "cli",
+              "developer-tools",
+              "llm",
+              "multi-agent",
+              "orchestration",
+              "persistent-memory",
+              "self-improving-ai",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -514,12 +1089,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self-hosted browser terminal manager for AI coding agents. Control Claude Code, Codex, Gemini, and shell sessions from your phone or browser over Tailscale.",
+            "homepage": "https://get-wolfpack.netlify.app/",
             "id": 1146021062,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T06:21:00Z",
+            "open_issues": 7,
             "owner": "almogdepaz",
             "repo": "wolfpack",
-            "stars": 37
+            "stars": 38,
+            "topics": [
+              "ai-coding",
+              "browser-terminal",
+              "claude",
+              "claude-code",
+              "codex",
+              "coding-agents",
+              "developer-tools",
+              "gemini",
+              "multi-agent",
+              "multi-machine",
+              "pwa",
+              "remote-development",
+              "remote-terminal",
+              "self-hosted",
+              "tailnet",
+              "tailscale",
+              "terminal",
+              "terminal-dashboard",
+              "tmux",
+              "web-terminal"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -530,12 +1131,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "You delegate. Agents work. You approve. A workspace for coding agents.",
+            "homepage": "https://intentic.dev",
             "id": 1322956121,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T08:45:26Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T23:35:08Z",
+            "open_issues": 0,
             "owner": "intentic",
             "repo": "intentic",
-            "stars": 28
+            "stars": 29,
+            "topics": [
+              "agent-infrastructure",
+              "ai-agents",
+              "claude-code",
+              "coding-agent",
+              "developer-tools",
+              "monorepo",
+              "sandbox",
+              "self-hosted",
+              "tauri",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -546,12 +1163,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Autonomous AI coding agent — 126 skills, 7 subagents, 5 platforms. Iterative optimization with automatic rollback, failure memory, and parallel multi-agent execution. Plugin for Claude Code, Cursor, Codex, Gemini CLI, OpenCode.",
+            "homepage": null,
             "id": 1186185215,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-28T15:18:04Z",
+            "open_issues": 2,
             "owner": "arbazkhan971",
             "repo": "godmode",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "ai-agent",
+              "ai-agents",
+              "ai-code-review",
+              "ai-skills",
+              "automated-testing",
+              "autonomous-coding",
+              "autoresearch",
+              "claude-code",
+              "code-optimization",
+              "code-quality",
+              "code-review",
+              "cursor",
+              "developer-tools",
+              "development-tools",
+              "gemini-cli",
+              "karpathy",
+              "llm",
+              "open-source",
+              "tdd"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -562,12 +1204,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A repo-native coding-agent loop harness for Claude, Codex, Copilot, and other CLI agents. Agents can edit. Gates decide what lands. You set the plan in motion. The agents take a prompt, and each iteration must update specs and commit through guardrails.",
+            "homepage": null,
             "id": 1277595908,
             "language": "Python",
-            "last_commit": "2026-08-26T05:19:04Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:46:35Z",
+            "open_issues": 9,
             "owner": "rxdt",
             "repo": "loopgate_harness",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "agent",
+              "agent-loop",
+              "agentic-ai",
+              "agentic-coding",
+              "ai-agents",
+              "automation",
+              "autonomous-agents",
+              "claude-code",
+              "codex-cli",
+              "coding-agents",
+              "developer-tools",
+              "first-timers-only",
+              "framework",
+              "good-first-issue",
+              "harness",
+              "pair-programming",
+              "scaffold-template",
+              "template",
+              "up-for-grabs",
+              "uvx"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -578,12 +1246,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NextProb — a notebook for vibe-coded websites",
+            "homepage": "https://nextprob.com",
             "id": 1225011373,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-06-18T02:58:37Z",
+            "open_issues": 0,
             "owner": "NextProb",
             "repo": "nextprob",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "electron",
+              "html",
+              "nextprob",
+              "notes-app"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -594,12 +1272,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Skill router and context picker for Claude Code, Cursor, and Aider. Auto-picks the right skill for every prompt, with prompt-injection filtering for MCP.",
+            "homepage": null,
             "id": 1291097550,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-16T22:24:18Z",
+            "open_issues": 5,
             "owner": "KernelLord",
             "repo": "pickysteve",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "anthropic",
+              "claude",
+              "claude-code",
+              "claude-code-plugin",
+              "context-engineering",
+              "cursor",
+              "cursor-rules",
+              "dev-tools",
+              "llm",
+              "llm-tools",
+              "mcp",
+              "mcp-security",
+              "mcp-server",
+              "openclaw-plugin",
+              "prompt-engineering",
+              "prompt-injection",
+              "python",
+              "skill-router"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -610,12 +1314,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Turn tracker tickets into pull requests with the coding agent and model you choose. FSL source-available.",
+            "homepage": "https://devintern.com",
             "id": 1294594135,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T14:33:28Z",
+            "open_issues": 20,
             "owner": "getdevintern",
             "repo": "devintern",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "ai-agent",
+              "byok",
+              "claude-code",
+              "cli",
+              "coding-agent",
+              "devtools",
+              "jira",
+              "linear",
+              "pull-request",
+              "self-hosted",
+              "task-automation"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -626,12 +1347,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Every AI coding-agent CLI (Claude Code, Codex, Gemini, Qwen, Vibe) reviews your diff in parallel, read-only, for one ship/no-ship verdict. One tiny script: no server, no MCP.",
+            "homepage": "https://postmortemthis.com",
             "id": 1270073710,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-20T07:57:06Z",
+            "open_issues": 0,
             "owner": "Softeria",
             "repo": "postmortemthis",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "claude-code",
+              "cli",
+              "code-review",
+              "codex",
+              "coding-agent",
+              "developer-tools",
+              "gemini",
+              "llm",
+              "openrouter",
+              "qwen",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         }
@@ -648,12 +1388,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Gemini CLI extensions.",
+            "homepage": null,
             "id": 1055004999,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-25T21:31:54Z",
+            "open_issues": 2,
             "owner": "Piebald-AI",
             "repo": "awesome-gemini-cli-extensions",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -664,12 +1409,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A plugin for AI coding agents (Antigravity, Claude Code) enabling Spec-Driven Development to specify, plan, and implement software features.",
+            "homepage": null,
             "id": 1117942206,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-11T01:56:34Z",
+            "open_issues": 77,
             "owner": "gemini-cli-extensions",
             "repo": "conductor",
-            "stars": 3713
+            "stars": 3713,
+            "topics": [
+              "antigravity",
+              "antigravity-cli",
+              "antigravity-cli-plugins",
+              "gemini",
+              "google",
+              "spec-driven-development"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -680,12 +1437,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI code reviews grounded in 12 classic engineering books — decay risk diagnostics with book citations, severity labels, and 6 analysis modes including full-sweep auto-fix",
+            "homepage": "https://hyhmrright.github.io/brooks-lint/",
             "id": 1192608669,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-24T04:07:06Z",
+            "open_issues": 2,
             "owner": "hyhmrright",
             "repo": "brooks-lint",
-            "stars": 1427
+            "stars": 1427,
+            "topics": [
+              "agent-skills",
+              "ai-code-review",
+              "architecture-review",
+              "auto-fix",
+              "claude-code",
+              "claude-code-plugin",
+              "clean-architecture",
+              "code-health",
+              "code-quality",
+              "code-review",
+              "code-smells",
+              "codex-cli-plugin",
+              "deepseek-harness",
+              "developer-tools",
+              "dsh-plugin",
+              "gemini-cli-extension",
+              "refactoring",
+              "static-analysis",
+              "tech-debt",
+              "test-quality"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -696,12 +1479,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This extension transforms the Gemini CLI into \"Pickle Rick,\" a hyper-intelligent, arrogant, yet extremely competent  engineering persona. It enforces a rigid, iterative software development lifecycle through continuous AI agent loops. Emphasizing \"God Mode\" coding practices and a disdain for",
+            "homepage": null,
             "id": 1130828314,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-14T23:19:26Z",
+            "open_issues": 0,
             "owner": "galdawave",
             "repo": "pickle-rick-extension",
-            "stars": 452
+            "stars": 452,
+            "topics": [
+              "ai",
+              "gemini",
+              "gemini-cli",
+              "gemini-cli-extensions"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -712,12 +1505,37 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "rUv's Claude-Flow, translated to the new Gemini CLI; transforming it into an autonomous AI development team.",
+            "homepage": null,
             "id": 1030558707,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-01-29T16:47:49Z",
+            "open_issues": 32,
             "owner": "clduab11",
             "repo": "gemini-flow",
-            "stars": 389
+            "stars": 389,
+            "topics": [
+              "ai-automation",
+              "ai-workflow",
+              "autonomous-agents",
+              "clit-tools",
+              "code-assistant",
+              "code-generation",
+              "collaborative-development",
+              "devops",
+              "gemini-cli",
+              "google",
+              "google-gemini",
+              "llm",
+              "mcp-server",
+              "multi-agent-systems",
+              "natural-language-processing",
+              "open-source",
+              "prompt-engineering",
+              "software-engineering",
+              "workflow-automation"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -728,12 +1546,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source Tax Guides for AI agents, reviewed by named CPAs/CAs/EAs. 1,000+ Guides across 190+ jurisdictions. MCP server included. Works with Claude, ChatGPT, Cursor.",
+            "homepage": "https://www.openaccountants.com/",
             "id": 1206029526,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-28T17:03:43Z",
+            "open_issues": 13,
             "owner": "openaccountants",
             "repo": "openaccountants",
-            "stars": 350
+            "stars": 351,
+            "topics": [
+              "accountant",
+              "accounting",
+              "agentic-tax",
+              "ai",
+              "chatgpt",
+              "claude",
+              "compliance",
+              "cpa",
+              "gst",
+              "income-tax",
+              "llm",
+              "mcp",
+              "open-source",
+              "tax",
+              "tax-return",
+              "vat",
+              "verified-tax"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -744,12 +1585,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Russian text quality for AI agents — neuroslop cleanup, typography, information style, editorial standards, UX writing, business correspondence. Scores text 0–10. 2,000+ linguistic atoms.",
+            "homepage": null,
             "id": 1194628070,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-28T12:45:06Z",
+            "open_issues": 0,
             "owner": "talkstream",
             "repo": "ru-text",
-            "stars": 221
+            "stars": 221,
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "ai-text-detection",
+              "claude-code",
+              "claude-cowork",
+              "codex-cli",
+              "cursor",
+              "editorial",
+              "gemini-cli-extension",
+              "info-style",
+              "neuroslop",
+              "notion",
+              "openclaw",
+              "proofreading",
+              "russian",
+              "russian-language",
+              "text-quality",
+              "text-scoring",
+              "typography",
+              "ux-writing"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -760,12 +1627,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Some great custom slash commands to supercharge your workflow",
+            "homepage": null,
             "id": 1029947440,
             "language": null,
+            "license": null,
             "last_commit": "2025-07-31T22:05:46Z",
+            "open_issues": 1,
             "owner": "amitkmaraj",
             "repo": "gemini-cli-custom-slash-commands",
-            "stars": 168
+            "stars": 168,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -776,12 +1648,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Indexed knowledge bases with command-line tools for agents.",
+            "homepage": null,
             "id": 1285643256,
             "language": "Python",
-            "last_commit": "2026-08-27T02:22:32Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:41:17Z",
+            "open_issues": 2,
             "owner": "plasma-ai",
             "repo": "wiki",
-            "stars": 81
+            "stars": 81,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -792,12 +1669,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Give your AI agent a wallet, email, phone number, and instant access to paid MCP tools — web search, image/video/music gen, X search, SMS, voice calls, code execution, and more. Works with Gemini CLI, Claude, and any MCP client.",
+            "homepage": "https://atxp.ai",
             "id": 1165135808,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-03T20:25:44Z",
+            "open_issues": 9,
             "owner": "atxp-dev",
             "repo": "atxp",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "agent-infrastructure",
+              "agent-payments",
+              "agent-tools",
+              "ai-agent",
+              "ai-payments",
+              "ai-wallet",
+              "atxp",
+              "gemini-cli",
+              "gemini-cli-extension",
+              "mcp",
+              "mcp-server",
+              "mcp-tools",
+              "model-context-protocol"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -808,12 +1704,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Curated document-intelligence plugins for coding agents — kreuzberg, kreuzcrawl, kreuzberg-cloud.",
+            "homepage": "https://xberg.io",
             "id": 1263192944,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-05T05:32:35Z",
+            "open_issues": 0,
             "owner": "xberg-io",
             "repo": "plugins",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -824,12 +1725,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Gemini CLI extension for Beads (bd). Adds graph-based task management, dependency tracking, and context persistence to AI workflows.",
+            "homepage": null,
             "id": 1137049324,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-02-25T23:49:14Z",
+            "open_issues": 0,
             "owner": "thoreinstein",
             "repo": "gemini-beads",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "cli",
+              "context-awareness",
+              "gemini-cli",
+              "gemini-cli-extension",
+              "gemini-extension",
+              "google-gemini",
+              "issue-tracker",
+              "persistent-memory"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -840,12 +1755,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Gemini CLI extension to send system notifications when Gemini needs permissions",
+            "homepage": null,
             "id": 1144547634,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-26T10:49:12Z",
+            "open_issues": 1,
             "owner": "thoreinstein",
             "repo": "gemini-notifier",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "gemini-cli",
+              "gemini-cli-ex",
+              "gemini-extensions",
+              "notifications"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -856,12 +1781,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Blockchain RPC skills for AI coding agents — 200+ networks via DRPC",
+            "homepage": null,
             "id": 1202845859,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-21T13:05:38Z",
+            "open_issues": 2,
             "owner": "drpcorg",
             "repo": "drpc-agent-skills",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "ai-agents",
+              "blockchain",
+              "claude-code",
+              "codex",
+              "cursor",
+              "drpc",
+              "ethereum",
+              "mcp",
+              "openclow",
+              "rpc",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -872,12 +1814,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Share your screen with Gemini-CLI via this extension using MCP and custom slash commands",
+            "homepage": null,
             "id": 1052120196,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-23T15:27:04Z",
+            "open_issues": 1,
             "owner": "automateyournetwork",
             "repo": "GeminiCLI_ScreenShare_Extension",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -888,12 +1835,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A /listen feature for Gemini CLI ",
+            "homepage": null,
             "id": 1039190565,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-04T11:58:31Z",
+            "open_issues": 0,
             "owner": "automateyournetwork",
             "repo": "GeminiCLI_Slash_Listen",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -904,12 +1856,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Gemini CLI extension that uses RAG and MCP and Custom Slash Commands to analyze packet captures",
+            "homepage": null,
             "id": 1085065156,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-17T15:53:39Z",
+            "open_issues": 0,
             "owner": "automateyournetwork",
             "repo": "GeminiCLI_Packet_Buddy_Extension",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -920,12 +1877,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔮 MAGUS Council: World's first? 4-AI consultation system (Gemini+Claude+GPT-5+Qwen) in VS Code - Revolutionary multi-agent development environment",
+            "homepage": null,
             "id": 1032306398,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-09-11T00:56:51Z",
+            "open_issues": 5,
             "owner": "d3j",
             "repo": "gemini-cli-on-vscode",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "claude-code",
+              "codex-cli",
+              "gemini-cli",
+              "gpt-5",
+              "qwen-coder",
+              "qwen3",
+              "vscode-extension"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -936,12 +1906,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Turn Gemini-CLI into a server with /isten commands packaged as a Gemini-CLI extension",
+            "homepage": null,
             "id": 1051775704,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-14T18:50:53Z",
+            "open_issues": 0,
             "owner": "automateyournetwork",
             "repo": "GeminiCLI_Listen_Extension",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -952,12 +1927,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "个人优先的本地自动化 Agent · AI 与你的数据之间确定且安全的控制层 · 数据不出本地 · 连接你自己的 LLM / 文件 / 笔记 / 数据库（Connector API） · ReAct 推理 · 确定性工作流执行（DAG/WAL/Saga/幂等） · MCP 协议 · 离线可用",
+            "homepage": "https://github.com/alib8b8/aflare",
             "id": 552259791,
             "language": "Go",
-            "last_commit": "2026-08-28T13:31:33Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:39:09Z",
+            "open_issues": 1,
             "owner": "alib8b8",
             "repo": "aflare",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "agent",
+              "automation",
+              "connector",
+              "dag",
+              "data-protection",
+              "dsh",
+              "dsh-plugin",
+              "files",
+              "go",
+              "llm",
+              "local-first",
+              "mcp",
+              "notes",
+              "offline",
+              "ollama",
+              "personal-data",
+              "privacy",
+              "rag",
+              "saga",
+              "sqlite"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -968,12 +1969,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An easy to install pyATS extension for Gemini CLI ",
+            "homepage": null,
             "id": 1052259239,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-11T15:27:53Z",
+            "open_issues": 0,
             "owner": "automateyournetwork",
             "repo": "pyATS_GeminiCLI_Extension",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -984,12 +1990,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Autonomous agent operational guardrails for Gemini CLI",
+            "homepage": null,
             "id": 1184763938,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-18T19:58:44Z",
+            "open_issues": 0,
             "owner": "davidwiet",
             "repo": "task-monitor",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1000,12 +2011,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An extension for GeminiCLI that performs subnet calculation",
+            "homepage": null,
             "id": 1069673583,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-14T18:52:44Z",
+            "open_issues": 0,
             "owner": "automateyournetwork",
             "repo": "GeminiCLI_SubnetCalculator_Extension",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1016,12 +2032,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-platform TokRepo search skill for Claude Code, Codex, Cursor, Gemini CLI, and AGENTS-compatible tools.",
+            "homepage": "https://tokrepo.com",
             "id": 1199072594,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-04-02T03:31:32Z",
+            "open_issues": 0,
             "owner": "henu-wang",
             "repo": "tokrepo-search-skill",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "agents-md",
+              "ai-agents",
+              "claude-code",
+              "codex",
+              "copilot",
+              "cursor",
+              "developer-tools",
+              "gemini-cli",
+              "mcp",
+              "prompts",
+              "skills",
+              "tokrepo"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1032,12 +2066,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bring your local Gemini CLI agent into Discord as a persistent operational presence.",
+            "homepage": null,
             "id": 1246142527,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-19T14:52:59Z",
+            "open_issues": 0,
             "owner": "Yamato-main",
             "repo": "gemini-discord",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "discord",
+              "discord-bot",
+              "gemini-api",
+              "gemini-cli",
+              "gemini-cli-extension",
+              "mcp",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1048,12 +2095,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI-driven security audits for Claude Code, Gemini CLI, Cursor and GitHub Copilot — full-repo or diff-scoped. Designs tailored lenses, verifies every finding, and adversarially disproves high-impact ones before they reach your report.",
+            "homepage": null,
             "id": 1302789571,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-29T08:40:52Z",
+            "open_issues": 0,
             "owner": "kigiela",
             "repo": "16-eyes",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1064,12 +2116,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ArmorIQ intent-based security enforcement for the Gemini CLI. Enforces that Gemini declares what it intends to do before doing it, and every action is checked against that declared intent.",
+            "homepage": null,
             "id": 1321951382,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-22T13:56:15Z",
+            "open_issues": 0,
             "owner": "armoriq",
             "repo": "armorGemini",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "gemini-cli-extension"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1080,12 +2139,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Architecture-level code review for any coding agent — Claude Code, Codex, Cursor, Gemini CLI and 100+ more. One verdict, every blocker demonstrated by running the code.",
+            "homepage": null,
             "id": 1337460138,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-25T18:31:33Z",
+            "open_issues": 0,
             "owner": "Maksim-Burtsev",
             "repo": "punchcard",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "ai-code-review",
+              "architecture",
+              "claude-code",
+              "claude-code-plugin",
+              "code-review",
+              "codex",
+              "cursor",
+              "design-review",
+              "llm-agents",
+              "software-design"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         }
@@ -1102,12 +2179,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
+            "homepage": null,
             "id": 1022026685,
             "language": "Nix",
-            "last_commit": "2026-08-28T07:19:14Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:38:36Z",
+            "open_issues": 28,
             "owner": "numtide",
             "repo": "llm-agents.nix",
-            "stars": 1841
+            "stars": 1843,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1118,12 +2200,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Utility CLI for AI Coding Agents",
+            "homepage": "http://rulesync.dyoshikawa.com/",
             "id": 1004340390,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T12:01:05Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:34:08Z",
+            "open_issues": 71,
             "owner": "dyoshikawa",
             "repo": "rulesync",
-            "stars": 1358
+            "stars": 1360,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-coding",
+              "llm",
+              "mcp",
+              "rules",
+              "skills"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1134,12 +2229,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Coding Agent Session Manager for Claude Code / Gemini CLI / Codex CLI / Cursor Agent / Copilot CLI / Cline CLI / OpenCode / Kimi CLI",
+            "homepage": null,
             "id": 997900525,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T09:28:15Z",
+            "open_issues": 13,
             "owner": "kbwo",
             "repo": "ccmanager",
-            "stars": 1230
+            "stars": 1230,
+            "topics": [
+              "claude",
+              "claude-code",
+              "cli",
+              "cline",
+              "codex",
+              "copilot",
+              "copilot-cli",
+              "cursor",
+              "cursor-agent",
+              "cursor-cli",
+              "gemini",
+              "gemini-cli",
+              "github-copilot",
+              "kimi",
+              "kimi-cli",
+              "opencode",
+              "vibe-coding"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1150,12 +2268,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Local-first macOS app to browse, search, analyze, and resume supported AI coding-agent session history across Codex, Claude Code, OpenCode, Cursor Agent, Hermes, OpenClaw, Copilot CLI, and more.",
+            "homepage": "https://jazzyalex.github.io/agent-sessions/?campaign=github&ref=about-sidebar",
             "id": 1060421643,
             "language": "Swift",
-            "last_commit": "2026-08-27T22:38:13Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:45:17Z",
+            "open_issues": 1,
             "owner": "jazzyalex",
             "repo": "agent-sessions",
-            "stars": 819
+            "stars": 819,
+            "topics": [
+              "agentic-workflow",
+              "ai",
+              "ai-coding-agents",
+              "anthropic",
+              "antigravity",
+              "claude-code",
+              "codex",
+              "codex-cli",
+              "copilot-cli",
+              "cursor-agent",
+              "developer-tools",
+              "hermes-agent",
+              "kimi-code",
+              "macos",
+              "openai",
+              "opencode",
+              "session-history",
+              "session-management",
+              "transcript-search",
+              "usage-tracking"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1166,12 +2310,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The missing linter and lsp for AI coding assistants. Validate CLAUDE.md, AGENTS.md, SKILL.md, hooks, MCP. Plugin for all major IDEs included, with autofixes.",
+            "homepage": null,
             "id": 1146336156,
             "language": "Rust",
-            "last_commit": "2026-08-27T21:32:52Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T19:46:22Z",
+            "open_issues": 8,
             "owner": "agent-sh",
             "repo": "agnix",
-            "stars": 399
+            "stars": 399,
+            "topics": [
+              "agent",
+              "ai",
+              "ai-agents",
+              "ai-coding-assistant",
+              "claude",
+              "cli",
+              "code-quality",
+              "codex",
+              "copilot",
+              "cursor",
+              "devtools",
+              "linter",
+              "llm",
+              "lsp",
+              "mcp",
+              "opencode",
+              "rust",
+              "skills",
+              "vscode",
+              "vscode-extension"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1182,12 +2352,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast, cross-platform, real-time token usage tracker and cost monitor for Claude Code / Codex CLI / Antigravity CLI / Qwen Code / Cline / Zoo Code / Kilo Code / GitHub Copilot / OpenCode / Pi Agent / Piebald.",
+            "homepage": "https://splitrail.dev",
             "id": 1018717985,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-21T21:47:06Z",
+            "open_issues": 9,
             "owner": "Piebald-AI",
             "repo": "splitrail",
-            "stars": 218
+            "stars": 218,
+            "topics": [
+              "agentic",
+              "analyzer",
+              "antigravity-cli",
+              "blazing-fast",
+              "ccusage",
+              "claude-code",
+              "cline",
+              "codex",
+              "gcusage",
+              "kilo-code",
+              "opencode",
+              "pi-agent",
+              "piebald",
+              "qwen",
+              "qwen-code",
+              "ravishing",
+              "rust",
+              "splitrail",
+              "usage",
+              "zoo-code"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1198,12 +2394,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cover your Mac screen with a hotkey while AI agents keep running. Dog/cat mascot, native Settings, Touch ID unlock.",
+            "homepage": "https://getlockpaw.com",
             "id": 1186242047,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-08-24T08:59:34Z",
+            "open_issues": 5,
             "owner": "sorkila",
             "repo": "lockpaw",
-            "stars": 145
+            "stars": 146,
+            "topics": [
+              "ai-agents",
+              "claude-code",
+              "developer-tools",
+              "hotkey",
+              "macos",
+              "macos-app",
+              "menubar",
+              "open-source",
+              "privacy",
+              "screen-lock",
+              "screen-privacy",
+              "security",
+              "swift",
+              "swiftui",
+              "touch-id",
+              "utilities"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1214,12 +2432,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "In the midst of all the tools out there that you can possibly use to keep track of them. Here's a \"shovel\" that just works to try them all out.",
+            "homepage": "https://terminal-jarvis.com",
             "id": 1030622944,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-22T22:41:02Z",
+            "open_issues": 3,
             "owner": "BA-CalderonMorales",
             "repo": "terminal-jarvis",
-            "stars": 133
+            "stars": 133,
+            "topics": [
+              "agents",
+              "ai",
+              "cli",
+              "context-engineering",
+              "framework",
+              "governance",
+              "harness-engineering",
+              "meta-prompting",
+              "observability",
+              "package-manager",
+              "prompt-engineering",
+              "release-automation",
+              "risk-analysis",
+              "risk-compliance",
+              "security",
+              "skills",
+              "subagents",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1230,12 +2472,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Local-first Rust TUI/CLI for auditing AI coding-agent sessions: cost, tokens, latency, failures, and health｜本地优先 Rust TUI/CLI，审计 AI 编程 Agent 会话的成本、Token、延迟、失败与健康度",
+            "homepage": "https://github.com/luoyuctl/agenttrace",
             "id": 1226187070,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-24T01:09:37Z",
+            "open_issues": 7,
             "owner": "luoyuctl",
             "repo": "agenttrace",
-            "stars": 124
+            "stars": 124,
+            "topics": [
+              "ai-agent-observability",
+              "ai-agents",
+              "ai-cost-tracking",
+              "claude-code",
+              "codex-cli",
+              "coding-agent",
+              "cursor",
+              "gemini-cli",
+              "opencode",
+              "qwen-code",
+              "rust",
+              "rust-cli",
+              "session-history",
+              "token-usage",
+              "tui"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1246,12 +2509,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Make AI output sound human. Strips AI-isms (sycophancy, stock vocab, hedging stacks, em-dash pileups), preserves code/URLs/headings. Plugin for Claude Code, Cursor, Windsurf, Codex, Cline, Copilot, Gemini.",
+            "homepage": "https://mohamedabdallah-14.github.io/unslop/",
             "id": 1215400589,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-21T03:33:44Z",
+            "open_issues": 1,
             "owner": "MohamedAbdallah-14",
             "repo": "unslop",
-            "stars": 120
+            "stars": 120,
+            "topics": [
+              "ai-detection",
+              "ai-plugin",
+              "ai-writing",
+              "anti-slop",
+              "claude-code",
+              "claude-code-plugin",
+              "cline-rules",
+              "codex-plugin",
+              "content-quality",
+              "cursor-plugin",
+              "cursor-rules",
+              "gemini-cli-extension",
+              "humanizer",
+              "llm",
+              "open-source",
+              "prompt-engineering",
+              "python",
+              "typescript",
+              "windsurf-rules",
+              "writing-tools"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1262,12 +2551,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Credential gateway for AI agents. Log in once via Oauth2 or API Key. Every agent stays authenticated — headless, no SaaS, agents never see your credentials.",
+            "homepage": "https://authsome.ai/docs",
             "id": 1212456937,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-24T23:13:46Z",
+            "open_issues": 11,
             "owner": "agentrhq",
             "repo": "authsome",
-            "stars": 84
+            "stars": 84,
+            "topics": [
+              "agent-identity",
+              "agent-security",
+              "ai-agents",
+              "api-keys",
+              "authentication",
+              "claude-code",
+              "cli",
+              "credential-manager",
+              "developer-tools",
+              "headless",
+              "hermes-agent",
+              "llm",
+              "local-first",
+              "mcp",
+              "oauth2",
+              "openclaw",
+              "python",
+              "secrets-management",
+              "security-tools",
+              "vault"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1278,12 +2593,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Git-backed control plane for AI-agent skills, tools, context, permissions, and identity. Self-hosted and MCP-native.",
+            "homepage": "https://demo.bevel.software/",
             "id": 1317304497,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T17:36:54Z",
+            "open_issues": 6,
             "owner": "Bevel-Software",
             "repo": "Hexis",
-            "stars": 80
+            "stars": 80,
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "claude",
+              "knowledge-base",
+              "llm",
+              "mcp",
+              "mcp-server",
+              "open-source",
+              "self-hosted",
+              "skills"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1294,12 +2625,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sync MCP servers, Skills, Agents & Commands across Claude Code, Cursor, OpenCode, Codex. One config, all tools.",
+            "homepage": "https://vsync.xiaominglab.com",
             "id": 1142465755,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-01-27T03:27:42Z",
+            "open_issues": 3,
             "owner": "nicepkg",
             "repo": "vsync",
-            "stars": 56
+            "stars": 56,
+            "topics": [
+              "ai",
+              "ai-coding",
+              "ai-tools",
+              "automation",
+              "claude",
+              "claude-code",
+              "cli",
+              "codex",
+              "config-sync",
+              "cursor",
+              "developer-tools",
+              "devtools",
+              "mcp",
+              "mcp-server",
+              "nodejs",
+              "opencode",
+              "productivity",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1310,12 +2665,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "EGC gives every AI coding agent the same brain. Shared memory, skills, and live context across Cursor, Claude Code, Copilot, Aider, and 20+ AI coding tools with zero configuration. Every tab, terminal, and AI stays automatically synchronized. One brain. Everywhere.",
+            "homepage": "https://fmarzochi.github.io/EGCSite/",
             "id": 1231288768,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T16:10:28Z",
+            "open_issues": 13,
             "owner": "Fmarzochi",
             "repo": "EGC",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "agent-memory",
+              "agentic-workflows",
+              "ai-agents",
+              "ai-memory",
+              "aider",
+              "claude-code",
+              "context-engineering",
+              "copilot",
+              "cursor",
+              "developer-tools",
+              "local-first",
+              "mcp",
+              "mcp-server",
+              "multi-agent-orchestration",
+              "persistent-memory",
+              "shared-context",
+              "token-optimization",
+              "windsurf"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1326,12 +2705,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Karpathy-inspired coding-agent guidelines packaged for Claude Code, Codex, Cursor, Gemini, OpenCode, Aider, Copilot, OpenClaw, and any AGENTS.md or Agent Skills-compatible agent.",
+            "homepage": null,
             "id": 1235533437,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-05-11T12:43:50Z",
+            "open_issues": 0,
             "owner": "swarmclawai",
             "repo": "andrej-karpathy-skills",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "agent-skills",
+              "agents-md",
+              "ai-agents",
+              "ai-coding",
+              "aider",
+              "claude-code",
+              "codex",
+              "coding-agents",
+              "copilot",
+              "cursor",
+              "developer-tools",
+              "gemini-cli",
+              "goose",
+              "karpathy",
+              "llm",
+              "openclaw",
+              "opencode",
+              "prompt-engineering",
+              "skills",
+              "windsurf"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1342,12 +2747,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A coding agent skill that analyzes git history to understand a codebase before reading any code",
+            "homepage": null,
             "id": 1206148600,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-04-26T05:49:17Z",
+            "open_issues": 0,
             "owner": "yujiachen-y",
             "repo": "codebase-recon-skill",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1358,12 +2768,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An MCP tool that allows the Gemini CLI to send commands to itself, run very long commands in the background and be woken, sleep for a specified amount of time, watch logs and receive notifications, etc by leveraging tmux.",
+            "homepage": "https://www.stevenathompson.com/",
             "id": 1126866881,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-12T23:36:42Z",
+            "open_issues": 3,
             "owner": "stevenAthompson",
             "repo": "self-command",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "cli",
+              "gemini",
+              "gemini-cli",
+              "gemini-cli-extension",
+              "gemini-cli-extensions",
+              "google",
+              "logs",
+              "poll",
+              "polling",
+              "tmux"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1374,12 +2800,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gemini CLI wrapped as a Docker image, so you don't need to trash your OS with Node and it's dependencies.",
+            "homepage": "https://gagor.pro/2025/10/running-gemini-cli-in-a-docker-container/",
             "id": 1087007012,
             "language": "Dockerfile",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-24T05:02:35Z",
+            "open_issues": 0,
             "owner": "tgagor",
             "repo": "docker-gemini-cli",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "ai",
+              "docker",
+              "gemini",
+              "gemini-ai",
+              "gemini-cli"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1390,12 +2827,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Catch your AI agents when they lie about what they shipped — verifies claims against git instead of believing the agent.",
+            "homepage": "https://pypi.org/project/dos-kernel/",
             "id": 1265531036,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T16:34:21Z",
+            "open_issues": 101,
             "owner": "anthony-chaudhary",
             "repo": "dos-kernel",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "agent-monitoring",
+              "agent-orchestration",
+              "agents",
+              "ai-agents",
+              "autonomous-agents",
+              "claude",
+              "claude-code",
+              "claude-plugin",
+              "cli",
+              "developer-tools",
+              "hooks",
+              "llm-agents",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "multi-agent",
+              "python",
+              "trust",
+              "verification"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1406,12 +2868,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Risk-adaptive development pipeline with adversarial consensus code review",
+            "homepage": "https://skill7.dev/signum",
             "id": 1166408961,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-07-20T17:46:49Z",
+            "open_issues": 2,
             "owner": "heurema",
             "repo": "signum",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "ai-agent",
+              "anthropic",
+              "claude",
+              "claude-code",
+              "claude-code-plugin",
+              "code-review",
+              "development-pipeline"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1422,12 +2897,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Universal synchronization layer for AI orchestrators, agents, MCP configs, skills, commands, and dev-tool workflows.",
+            "homepage": "https://the-untitled-org.github.io/wasla/",
             "id": 1240793381,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-06T23:18:33Z",
+            "open_issues": 0,
             "owner": "The-Untitled-Org",
             "repo": "wasla",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "agent-orchestration",
+              "ai-agents",
+              "ai-orchestration",
+              "ai-skills",
+              "ai-tools",
+              "automation",
+              "claude-code",
+              "cli",
+              "codex",
+              "developer-tools",
+              "gemini-cli",
+              "github-copilot",
+              "mcp",
+              "model-context-protocol",
+              "npm-package",
+              "opencode",
+              "react",
+              "sync",
+              "typescript",
+              "vite"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1438,12 +2939,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ideas, tricks, materials with puzzles for AIs and some wetware",
+            "homepage": null,
             "id": 990678215,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T10:22:46Z",
+            "open_issues": 0,
             "owner": "Manamama",
             "repo": "Puzzles_for_AIs",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1454,12 +2960,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Local-only observability for AI agents on your machine. One timeline across coding and non-coding agents.",
+            "homepage": "https://github.com/mishanefedov/agentwatch#readme",
             "id": 1209810659,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-09T14:48:43Z",
+            "open_issues": 2,
             "owner": "mishanefedov",
             "repo": "agentwatch",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "ai-agents",
+              "claude-code",
+              "cli",
+              "cursor",
+              "developer-tools",
+              "local-first",
+              "mcp",
+              "observability",
+              "openclaw",
+              "tui"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1470,12 +2992,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A macOS hotkey that opens your terminal at the right repo with your coding agent (Claude Code, Codex, …) already running. Free, open source, local-only.",
+            "homepage": "https://tintpad.com",
             "id": 1272963269,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-08-24T08:46:45Z",
+            "open_issues": 7,
             "owner": "sorkila",
             "repo": "tintpad",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "claude",
+              "claude-code",
+              "cli",
+              "codex",
+              "developer-tools",
+              "hotkey",
+              "launcher",
+              "macos",
+              "macos-app",
+              "menu-bar",
+              "menubar",
+              "open-source",
+              "privacy",
+              "productivity",
+              "swift",
+              "swiftui",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1486,12 +3033,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sync one reviewed context source into native AI-agent files, with privacy-safe evidence receipts that never confuse generation with runtime load.",
+            "homepage": "https://caioribeiroclw-pixel.github.io/pluribus/context-sync-demo.html",
             "id": 1175998099,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-18T15:55:54Z",
+            "open_issues": 7,
             "owner": "caioribeiroclw-pixel",
             "repo": "pluribus",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "agent-skills",
+              "agents-md",
+              "ai-agent-observability",
+              "ai-agents",
+              "ai-coding-agents",
+              "ai-context",
+              "ai-tools",
+              "claude-code",
+              "context-drift",
+              "context-engineering",
+              "context-management",
+              "context-receipts",
+              "context-sharing",
+              "copilot-instructions",
+              "cursor",
+              "cursor-rules",
+              "developer-tools",
+              "mcp",
+              "openclaw",
+              "project-memory"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1502,12 +3075,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate AI coding rules from your actual source code, powered by Google Gemini. npx rulegen-ai",
+            "homepage": "https://nedcodes.dev",
             "id": 1168889794,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-06T02:08:56Z",
+            "open_issues": 1,
             "owner": "nedcodes-ok",
             "repo": "rule-gen",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "ai-coding",
+              "cli",
+              "code-generation",
+              "cursor",
+              "cursor-ai",
+              "cursor-rules",
+              "mdc"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1518,12 +3104,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Package manager for MCP servers, Agent Skills (SKILL.md), and Claude Code commands, hooks, subagents, and output styles. Installs into Claude Code, Cursor, Codex, Gemini CLI, Copilot, and Cline.",
+            "homepage": null,
             "id": 1268268831,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-18T05:12:24Z",
+            "open_issues": 6,
             "owner": "Brattlof",
             "repo": "skillet",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "anthropic",
+              "claude",
+              "claude-code",
+              "cli",
+              "cline",
+              "codex",
+              "cursor",
+              "developer-tools",
+              "gemini-cli",
+              "github-copilot",
+              "golang",
+              "llm",
+              "mcp",
+              "model-context-protocol",
+              "package-manager",
+              "skill-md",
+              "slash-commands",
+              "subagents"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1534,12 +3146,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gemini Dockerized CLI with small improvements",
+            "homepage": null,
             "id": 1086058387,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-02T15:54:05Z",
+            "open_issues": 0,
             "owner": "nordluf",
             "repo": "gemini-dockerized-cli",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         }
@@ -1556,12 +3173,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Vercel AI SDK community provider for Gemini CLI - Free use via Gemini Code Assist License",
+            "homepage": null,
             "id": 1008679433,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-03T14:58:59Z",
+            "open_issues": 0,
             "owner": "ben-vargas",
             "repo": "ai-sdk-provider-gemini-cli",
-            "stars": 72
+            "stars": 72,
+            "topics": [
+              "ai",
+              "ai-sdk",
+              "gemini",
+              "gemini-cli",
+              "google-cloud",
+              "typescript",
+              "vercel-ai-sdk"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1572,12 +3202,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python SDK for Gemini CLI - API-compatible with Claude Code SDK",
+            "homepage": null,
             "id": 1017909362,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-09-30T14:55:35Z",
+            "open_issues": 7,
             "owner": "oneryalcin",
             "repo": "gemini-cli-sdk",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         }
@@ -1594,12 +3229,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Expose Gemini CLI endpoints as OpenAI API with Cloudflare Workers",
+            "homepage": null,
             "id": 1008961851,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-26T04:10:57Z",
+            "open_issues": 5,
             "owner": "GewoonJaap",
             "repo": "gemini-cli-openai",
-            "stars": 895
+            "stars": 895,
+            "topics": [
+              "gemini",
+              "gemini-cli",
+              "llm",
+              "openai",
+              "openai-api"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1610,12 +3256,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1008877059,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-12-17T20:20:28Z",
+            "open_issues": 16,
             "owner": "gzzhongqi",
             "repo": "geminicli2api",
-            "stars": 594
+            "stars": 593,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1626,12 +3277,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1040310742,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-08T06:21:20Z",
+            "open_issues": 0,
             "owner": "print-yuhuan",
             "repo": "Gemini-CLI-Termux",
-            "stars": 173
+            "stars": 173,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1642,12 +3298,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wrap Gemini CLI as an OpenAI-compatible API service, allowing you to enjoy the free Gemini Pro model through API!",
+            "homepage": null,
             "id": 1009586022,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-04T10:34:51Z",
+            "open_issues": 4,
             "owner": "nettee",
             "repo": "gemini-cli-proxy",
-            "stars": 152
+            "stars": 152,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1658,12 +3319,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 1011705040,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-07-23T03:33:33Z",
+            "open_issues": 6,
             "owner": "Intelligent-Internet",
             "repo": "gemini-cli-mcp-openai-bridge",
-            "stars": 138
+            "stars": 138,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1674,12 +3340,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gemini CLI wrapper to serve Gemini models through an OpenAI-compatible API",
+            "homepage": null,
             "id": 1009168122,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-08-07T19:55:50Z",
+            "open_issues": 2,
             "owner": "Brioch",
             "repo": "gemini-openai-proxy",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "gemini-ai"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         }
@@ -1696,12 +3369,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated library of high-quality, professionally crafted prompts for common development tasks. Save time and improve your AI interactions with battle-tested prompt templates. You can install it as an Gemini CLI Extension.",
+            "homepage": null,
             "id": 1072856801,
             "language": null,
+            "license": null,
             "last_commit": "2025-10-10T06:08:44Z",
+            "open_issues": 11,
             "owner": "harish-garg",
             "repo": "gemini-cli-prompt-library",
-            "stars": 413
+            "stars": 413,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         }
@@ -1718,12 +3396,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source AI study companion — Google Classroom sync, Gemini AI plans, SRS flashcards, GPA predictor, AI quiz, MCP server for Claude Code. Try demo at shiori-v1.vercel.app",
+            "homepage": "https://shiori-v1.vercel.app",
             "id": 1204562963,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-25T10:24:26Z",
+            "open_issues": 6,
             "owner": "kaorii-ako",
             "repo": "Shiori-v1",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "ai",
+              "docker",
+              "education",
+              "flashcards",
+              "gemini",
+              "google-classroom",
+              "gpa-calculator",
+              "mcp-server",
+              "open-source",
+              "pomodoro",
+              "productivity",
+              "pwa",
+              "react",
+              "self-hosted",
+              "spaced-repetition",
+              "student",
+              "study-planner",
+              "supabase",
+              "typescript",
+              "vite"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         }
@@ -1740,12 +3444,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. Use cli for quick setup. Efficient token usage, advanced tools. Any C# method may be turned into a tool by a single line. Works with Claude Code, Gemini, Copilot, Cursor and any other absolutely for free.",
+            "homepage": "https://ai-game.dev",
             "id": 959123498,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T23:55:08Z",
+            "open_issues": 50,
             "owner": "IvanMurzak",
             "repo": "Unity-MCP",
-            "stars": 4009
+            "stars": 4012,
+            "topics": [
+              "ai",
+              "ai-integration",
+              "anthropic",
+              "claude",
+              "claude-code",
+              "claude-desktop",
+              "cli",
+              "copilot",
+              "cursor",
+              "game-development",
+              "gamedev",
+              "gemini",
+              "llm",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "openai",
+              "unity",
+              "windsurf"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1756,12 +3485,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP server that enables AI assistants to interact with Google Gemini CLI, leveraging Gemini's massive token window for large file analysis and codebase understanding",
+            "homepage": "https://jamubc.github.io/gemini-mcp-tool/",
             "id": 1010478967,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-21T23:37:16Z",
+            "open_issues": 28,
             "owner": "jamubc",
             "repo": "gemini-mcp-tool",
-            "stars": 2279
+            "stars": 2279,
+            "topics": [
+              "ai",
+              "claude",
+              "cli",
+              "codebase-analysis",
+              "file-analysis",
+              "gemini",
+              "mcp",
+              "model-context-protocol",
+              "npm",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1772,12 +3517,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source self-improving QA agent for software teams. A test harness with memory. Write tests in natural language for web and mobile. agent-qa learns from every run, adapts to UI changes, and catches regressions before you ship.",
+            "homepage": "https://vostride.com",
             "id": 1232322871,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-03T18:44:59Z",
+            "open_issues": 0,
             "owner": "vostride",
             "repo": "agent-qa",
-            "stars": 899
+            "stars": 913,
+            "topics": [
+              "ai-agents",
+              "ai-testing",
+              "anthropic",
+              "autonomous-agents",
+              "browser-automation",
+              "chatgpt",
+              "claude-code",
+              "clawdbot",
+              "codex",
+              "developer-tools",
+              "dsh-plugin",
+              "end-to-end-testing",
+              "frontend",
+              "mcp",
+              "mcp-server",
+              "mcp-tools",
+              "model-context-protocol",
+              "openai",
+              "playwright",
+              "qa-automation"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1788,12 +3559,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Search your past AI coding sessions — Claude Code, Codex, Cursor and 17 more. Indexes the session history they already wrote to disk, including months from before you installed it, and recalls it in any of them. No LLM, no embeddings, one local Go binary.",
+            "homepage": "https://vshulcz.github.io/deja-vu/",
             "id": 1300173275,
             "language": "Go",
-            "last_commit": "2026-08-28T19:27:05Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:39:44Z",
+            "open_issues": 144,
             "owner": "vshulcz",
             "repo": "deja-vu",
-            "stars": 734
+            "stars": 735,
+            "topics": [
+              "agent-memory",
+              "ai-memory",
+              "claude-code",
+              "claude-code-hooks",
+              "claude-code-plugins",
+              "claude-code-skill",
+              "codex",
+              "coding-agents",
+              "conversation-history",
+              "deepseek-harness",
+              "dsh-plugin",
+              "gemini-cli-extension",
+              "kimi-code",
+              "mcp",
+              "mcp-server",
+              "opencode",
+              "qwen-code",
+              "session-history",
+              "session-search",
+              "zed-extension"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1804,12 +3601,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Godot-MCP — Model Context Protocol (MCP) integration for the Godot Engine. AI tools for the Godot Editor in C#, with cloud connection to ai-game.dev. Apache-2.0.",
+            "homepage": "https://ai-game.dev",
             "id": 1258985200,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T22:49:14Z",
+            "open_issues": 1,
             "owner": "IvanMurzak",
             "repo": "Godot-MCP",
-            "stars": 226
+            "stars": 227,
+            "topics": [
+              "ai",
+              "ai-integration",
+              "ai-tools",
+              "anthropic",
+              "claude",
+              "claude-code",
+              "claude-desktop",
+              "cli",
+              "copilot",
+              "deepseek",
+              "game-development",
+              "gamedev",
+              "gemini",
+              "godot",
+              "godot-engine",
+              "mcp",
+              "mcp-server",
+              "openai"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1820,12 +3641,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Xquik is the best X (Twitter) Scraper API and the best X API Alternative, with REST, MCP, SDKs, CLI, webhooks, and exports. Not affiliated with X Corp.",
+            "homepage": "https://xquik.com",
             "id": 1168120544,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T01:44:18Z",
+            "open_issues": 2,
             "owner": "Xquik-dev",
             "repo": "x-twitter-scraper",
-            "stars": 189
+            "stars": 189,
+            "topics": [
+              "advanced-search",
+              "agent-skill",
+              "ai-agent",
+              "data-extraction",
+              "follower-export",
+              "mcp",
+              "mcp-server",
+              "profile-tweets",
+              "sdk",
+              "social-media-api",
+              "social-media-automation",
+              "tweet-search",
+              "twitter-api",
+              "twitter-api-alternative",
+              "twitter-automation",
+              "twitter-scraper",
+              "twitter-scraper-api",
+              "x-api",
+              "x-api-alternative",
+              "xquik"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1836,12 +3683,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "World's first fully integrated and fully Automated Kubernetes management and orchestration solution",
+            "homepage": "https://console.kubestellar.io",
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T19:26:10Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:36:19Z",
+            "open_issues": 13,
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 129
+            "stars": 129,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1852,12 +3704,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Gemini CLI confirmed that the MCP server built with Google Apps Script (GAS), a low-code platform, offers immense possibilities. If you've created snippets for GAS, these could be revitalized and/or leveraged in new ways by using them as the MCP server. The Gemini CLI and other MCP clients will be useful in achieving this.",
+            "homepage": "https://medium.com/google-cloud/gemini-cli-with-mcp-server-expanding-possibilities-with-google-apps-script-4626c661ac81",
             "id": 1012959852,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-01-01T02:54:47Z",
+            "open_issues": 0,
             "owner": "tanaikech",
             "repo": "ToolsForMCPServer",
-            "stars": 106
+            "stars": 106,
+            "topics": [
+              "gas-library",
+              "google-apps-script",
+              "google-apps-script-library",
+              "google-workspace",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1868,12 +3733,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1008947183,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-07-03T09:10:08Z",
+            "open_issues": 1,
             "owner": "choplin",
             "repo": "mcp-gemini-cli",
-            "stars": 101
+            "stars": 101,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1884,12 +3754,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Intent as Code | the workflow language for AI. One file, 4 verbs, one Rust binary. Local-first, any model, AGPL-3.0. 🦋",
+            "homepage": "https://nika.sh",
             "id": 1126625946,
             "language": "Rust",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-28T09:28:46Z",
+            "open_issues": 45,
             "owner": "supernovae-st",
             "repo": "nika",
-            "stars": 58
+            "stars": 60,
+            "topics": [
+              "agents",
+              "ai",
+              "ai-agents",
+              "ai-workflows",
+              "automation",
+              "cli",
+              "dag",
+              "developer-tools",
+              "devops",
+              "llm",
+              "local-ai",
+              "mcp",
+              "ollama",
+              "rust",
+              "self-hosted",
+              "structured-output",
+              "workflow",
+              "workflow-automation",
+              "workflow-engine",
+              "yaml"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1900,12 +3796,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RunAPI MCP server for model discovery, pricing lookup, media task creation, and balance checks.",
+            "homepage": "https://runapi.ai",
             "id": 1258122081,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T03:49:16Z",
+            "open_issues": 2,
             "owner": "runapi-ai",
             "repo": "mcp",
-            "stars": 55
+            "stars": 55,
+            "topics": [
+              "ai",
+              "audio-generation",
+              "claude-code",
+              "cursor",
+              "image-generation",
+              "mcp",
+              "model-context-protocol",
+              "music-generation",
+              "runapi",
+              "runapi-ai",
+              "video-generation",
+              "vscode"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1916,12 +3830,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The External memory of our physical world.",
+            "homepage": "https://emem.dev/",
             "id": 1220365832,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T20:06:34Z",
+            "open_issues": 0,
             "owner": "Vortx-AI",
             "repo": "emem",
-            "stars": 54
+            "stars": 54,
+            "topics": [
+              "a2a-protocol",
+              "agent-interoperability",
+              "agent-memory",
+              "ai-agents",
+              "content-addressed",
+              "earth-orientation",
+              "ed25519",
+              "geospatial",
+              "llm-tools",
+              "long-term-memory",
+              "mcp",
+              "model-context-protocol",
+              "provenance",
+              "robotics",
+              "rust",
+              "shared-memory",
+              "transparency-log"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1932,12 +3869,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agent-driven proactive memory CLI for AI agents — autonomously recall, maintain, and evolve persistent, source-grounded knowledge across sessions.",
+            "homepage": "https://janyork.github.io/llm-wiki-cli",
             "id": 1316178203,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T14:35:20Z",
+            "open_issues": 0,
             "owner": "JanYork",
             "repo": "llm-wiki-cli",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "agent-memory-system",
+              "agent-skills",
+              "ai-agents",
+              "ai-agents-cli",
+              "claude-code",
+              "claude-skills",
+              "codex",
+              "command-line-tool",
+              "context-engineering",
+              "cursor",
+              "gemini-cli",
+              "hermes",
+              "kiro",
+              "knowledge-bases",
+              "llm-wiki",
+              "llm-wiki-karpathy",
+              "local-first-ai",
+              "opencode",
+              "persistent-memory-tool",
+              "proactive-memory"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1948,12 +3911,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1015818006,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-07-11T02:22:37Z",
+            "open_issues": 1,
             "owner": "InfolabAI",
             "repo": "gemini-cli-mcp",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1964,12 +3932,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI Game Developer for Unreal Engine — MCP plugin (C++ editor plugin + .NET bridge), unreal-cli, connects Unreal Editor to AI agents via ai-game.dev or a local MCP server",
+            "homepage": "https://ai-game.dev",
             "id": 1264881333,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T23:14:17Z",
+            "open_issues": 1,
             "owner": "IvanMurzak",
             "repo": "Unreal-MCP",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "ai",
+              "ai-integration",
+              "ai-tools",
+              "anthropic",
+              "claude",
+              "claude-code",
+              "claude-desktop",
+              "cli",
+              "copilot",
+              "deepseek",
+              "game-development",
+              "gamedev",
+              "gemini",
+              "mcp",
+              "mcp-server",
+              "openai",
+              "unreal",
+              "unreal-engine"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1980,12 +3972,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP server + CLI for production-grade software assets (logos, app icons, favicons, OG, illustrations) — routes across 30+ image models, zero-key first, validates before shipping.",
+            "homepage": "https://www.npmjs.com/package/prompt-to-asset",
             "id": 1215960867,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-12T20:32:13Z",
+            "open_issues": 15,
             "owner": "MohamedAbdallah-14",
             "repo": "prompt-to-asset",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "app-icon",
+              "asset-generation",
+              "claude-code",
+              "cli",
+              "cursor",
+              "favicon",
+              "flux",
+              "gpt-image-1",
+              "ideogram",
+              "image-generation",
+              "logo-generator",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "og-image",
+              "pollinations",
+              "recraft",
+              "stable-diffusion",
+              "typescript",
+              "windsurf"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -1996,12 +4014,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Local-first, auditable memory layer for AI apps and coding agents — Codex, Claude Code, MCP, HTTP, TypeScript, and Python.",
+            "homepage": "https://www.npmjs.com/package/goodmemory",
             "id": 1189746863,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-22T17:09:13Z",
+            "open_issues": 1,
             "owner": "hjqcan",
             "repo": "GoodMemory",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "agent-memory",
+              "ai-agents",
+              "claude-code",
+              "codex",
+              "coding-agents",
+              "developer-tools",
+              "hooks",
+              "llm-memory",
+              "local-first",
+              "long-term-memory",
+              "mcp",
+              "mcp-server",
+              "memory",
+              "open-source",
+              "postgres",
+              "sqlite",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -2012,12 +4053,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Evidence-backed proof of done for Claude Code, Codex, Cursor, and other AI coding agents. Run real checks, bind results to current Git state, and know what is ready for human review.",
+            "homepage": "https://www.lians.ai/",
             "id": 1280700354,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T02:11:06Z",
+            "open_issues": 17,
             "owner": "Lians-ai",
             "repo": "Lians",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "agentic-ai",
+              "ai-agents",
+              "ai-coding",
+              "ci-cd",
+              "claude-code",
+              "code-review",
+              "codex",
+              "cursor",
+              "developer-tools",
+              "devtools",
+              "git",
+              "github-actions",
+              "github-copilot",
+              "local-first",
+              "mcp",
+              "open-source",
+              "proof-of-done",
+              "python",
+              "software-testing",
+              "verification"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -2028,12 +4095,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Engine-agnostic MCP server shared by Unity-MCP, Godot-MCP and Unreal-MCP",
+            "homepage": "https://ai-game.dev",
             "id": 1266136525,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-21T07:02:51Z",
+            "open_issues": 0,
             "owner": "IvanMurzak",
             "repo": "GameDev-MCP-Server",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "ai",
+              "dotnet",
+              "gamedev",
+              "godot",
+              "mcp",
+              "model-context-protocol",
+              "unity",
+              "unreal-engine"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -2044,12 +4125,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple MCP server for using the Gemini CLI. ",
+            "homepage": null,
             "id": 1018639076,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-07-14T06:44:50Z",
+            "open_issues": 0,
             "owner": "neriousy",
             "repo": "gemini-mcp",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -2060,12 +4146,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Find MCP - stdio MCP client for the agentage MCP directory (catalog.agentage.io/mcp) - npx -y @agentage/find-mcp",
+            "homepage": "https://catalog.agentage.io/mcp",
             "id": 1300999234,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T18:45:34Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T19:37:43Z",
+            "open_issues": 0,
             "owner": "agentage",
             "repo": "find-mcp",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "mcp",
+              "mcp-client",
+              "mcp-directory",
+              "model-context-protocol",
+              "search",
+              "stdio"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -2076,12 +4174,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1242158661,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-06T12:01:36Z",
+            "open_issues": 0,
             "owner": "lusha-oss",
             "repo": "lusha-mcp-plugin",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "gemini-cli-extension"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -2092,12 +4197,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agent-native MCP server for TokRepo discovery, install planning, safe install, and reusable asset publishing.",
+            "homepage": "https://tokrepo.com",
             "id": 1199072598,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-05-27T07:45:24Z",
+            "open_issues": 1,
             "owner": "henu-wang",
             "repo": "tokrepo-mcp-server",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "a2a-agent-card",
+              "agent-manifest",
+              "agent-skills",
+              "agent-tools",
+              "ai-agents",
+              "claude-code",
+              "codex",
+              "copilot",
+              "cursor",
+              "developer-tools",
+              "gemini-cli",
+              "llms-txt",
+              "mcp",
+              "mcp-registry",
+              "mcp-server",
+              "prompts",
+              "skills",
+              "tokrepo",
+              "tool-discovery",
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         }
@@ -2114,12 +4245,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Neovim plugin to integrate Gemini CLI well (+ Qwen-code now)",
+            "homepage": null,
             "id": 1064028918,
             "language": "Lua",
+            "license": null,
             "last_commit": "2026-06-30T12:56:25Z",
+            "open_issues": 2,
             "owner": "gutsavgupta",
             "repo": "nvim-gemini-companion",
-            "stars": 84
+            "stars": 84,
+            "topics": [
+              "gemini-cli",
+              "ide-integration",
+              "lua",
+              "mcp-server",
+              "nvim",
+              "qwen-code",
+              "qwen-coder",
+              "vscode"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -2130,12 +4275,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1013019021,
             "language": "Lua",
+            "license": null,
             "last_commit": "2025-08-25T17:20:44Z",
+            "open_issues": 1,
             "owner": "JonRoosevelt",
             "repo": "gemini-cli.nvim",
-            "stars": 58
+            "stars": 58,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -2146,12 +4296,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "gemini-cli/claude-code in neovim",
+            "homepage": null,
             "id": 1016613900,
             "language": "Lua",
+            "license": null,
             "last_commit": "2026-02-09T08:23:20Z",
+            "open_issues": 1,
             "owner": "JunYang-tes",
             "repo": "agents-parter.nvim",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         }
@@ -2168,12 +4323,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multi-agent orchestration platform for Gemini CLI, Claude Code, Codex, and Qwen Code — 39 specialists, parallel subagents, persistent sessions, and built-in code review, debugging, security, SEO, accessibility, and compliance tools",
+            "homepage": "https://josstei.github.io/maestro-orchestrate/",
             "id": 1153318872,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-07T07:00:06Z",
+            "open_issues": 7,
             "owner": "josstei",
             "repo": "maestro-orchestrate",
-            "stars": 459
+            "stars": 459,
+            "topics": [
+              "agentic",
+              "ai-agents",
+              "anthropic",
+              "claude",
+              "claude-code",
+              "claude-code-plugin",
+              "code-review",
+              "codex-cli",
+              "codex-plugin",
+              "developer-tools",
+              "gemini",
+              "gemini-cli",
+              "gemini-cli-extension",
+              "gemini-extension",
+              "multi-agent",
+              "openai-codex",
+              "orchestration",
+              "qwen",
+              "qwen-code",
+              "subagents"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -2184,12 +4365,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI-powered development orchestration for Gemini CLI - adapted from Claude Code Flow by ruvnet",
+            "homepage": null,
             "id": 1009043176,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2025-06-27T14:57:52Z",
+            "open_issues": 3,
             "owner": "Theopsguide",
             "repo": "gemini-code-flow",
-            "stars": 159
+            "stars": 159,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -2200,12 +4386,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The World's First Out-of-the-Box Computer Use Agent Powered by Gemini-CLI @openmule",
+            "homepage": "https://blog.mulerun.com/p/gacua-a-free-and-open-source-computer-use-agent-for-developers/",
             "id": 1052645535,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-12T03:28:38Z",
+            "open_issues": 0,
             "owner": "openmule",
             "repo": "gacua",
-            "stars": 138
+            "stars": 138,
+            "topics": [
+              "agent",
+              "ai",
+              "computer-use",
+              "gacua"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -2216,12 +4412,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1026531004,
             "language": "Shell",
+            "license": null,
             "last_commit": "2025-07-31T04:07:59Z",
+            "open_issues": 3,
             "owner": "pauldatta",
             "repo": "gemini-cli-commands-demo",
-            "stars": 92
+            "stars": 92,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -2232,12 +4433,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "14-category autonomous product-building OS for 32+ AI coding tools. One-line prompts → deployed products.",
+            "homepage": "https://claude.megabyte.space",
             "id": 1216267923,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T04:36:05Z",
+            "open_issues": 5,
             "owner": "heymegabyte",
             "repo": "claude-skills",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "agent-skills",
+              "agents-md",
+              "agentskills",
+              "ai-agents",
+              "ai-coding",
+              "ai-rules",
+              "ai-skills",
+              "claude-code",
+              "claude-skills",
+              "cloudflare-workers",
+              "codex-skills",
+              "copilot-instructions",
+              "cursor-rules",
+              "developer-tools",
+              "gh-skill",
+              "hono",
+              "mcp",
+              "product-building",
+              "saas",
+              "vibe-coding"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         }
@@ -2254,12 +4481,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gemini CLI Tips and Tricks",
+            "homepage": null,
             "id": 1078598180,
             "language": null,
+            "license": null,
             "last_commit": "2025-10-19T03:25:32Z",
+            "open_issues": 4,
             "owner": "addyosmani",
             "repo": "gemini-cli-tips",
-            "stars": 2370
+            "stars": 2370,
+            "topics": [
+              "gemini",
+              "gemini-api",
+              "gemini-cli"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -2270,12 +4506,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of helpful gemini cli extensions and commands",
+            "homepage": null,
             "id": 1027155307,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2025-07-27T16:33:32Z",
+            "open_issues": 1,
             "owner": "philschmid",
             "repo": "gemini-cli-extension",
-            "stars": 148
+            "stars": 148,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -2286,12 +4527,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gemini CLI extension that adds Gemini API docs and MCP",
+            "homepage": null,
             "id": 1021893774,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-01-22T05:35:29Z",
+            "open_issues": 1,
             "owner": "markmcd",
             "repo": "gemini-docs-ext",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -2302,12 +4548,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An example of using Gemini CLI with MCP Servers for Genmedia and Gemini 2.5 Flash Image model ",
+            "homepage": "https://cloud.google.com/?utm_campaign=CDR_0xc245fc42_default_b433386287&utm_medium=external&utm_source=blog",
             "id": 1043816048,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-08-28T18:01:56Z",
+            "open_issues": 0,
             "owner": "vladkol",
             "repo": "gemini-cli-media-generation",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "ai",
+              "filmmaking",
+              "gemini",
+              "gemini-cli",
+              "imagen",
+              "mcp-server",
+              "veo3",
+              "video-generation"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -2318,12 +4578,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Demos-in-a-box for Gemini CLI",
+            "homepage": null,
             "id": 1007624054,
             "language": "Just",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-28T10:51:20Z",
+            "open_issues": 60,
             "owner": "palladius",
             "repo": "gemini-cli-demos",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -2334,12 +4599,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of demo scenario and casts for Gemini CLI",
+            "homepage": null,
             "id": 1021083857,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-07-29T21:16:37Z",
+            "open_issues": 1,
             "owner": "ptone",
             "repo": "cli-demo-cookbook",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -2350,12 +4620,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tips for using Antigravity CLI",
+            "homepage": null,
             "id": 1246363422,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-07-17T18:48:36Z",
+            "open_issues": 0,
             "owner": "ykdojo",
             "repo": "antigravity-cli-tips",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         }
@@ -2372,12 +4647,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source SEO, GEO, and marketing skills for AI agents.",
+            "homepage": "https://notfair.co/",
             "id": 1193374549,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T00:18:45Z",
+            "open_issues": 12,
             "owner": "nowork-studio",
             "repo": "notfair-plugin",
-            "stars": 3425
+            "stars": 3427,
+            "topics": [
+              "agents",
+              "claude-code-plugin",
+              "claude-skills",
+              "gemini-cli-extension",
+              "geo",
+              "googleads",
+              "googleadsmcp",
+              "mcp",
+              "metaads",
+              "seo"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -2388,12 +4679,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source SEO, GEO, and marketing skills for AI agents.",
+            "homepage": "https://notfair.co/",
             "id": 1193374549,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T00:18:45Z",
+            "open_issues": 12,
             "owner": "nowork-studio",
             "repo": "notfair-plugin",
-            "stars": 3425
+            "stars": 3427,
+            "topics": [
+              "agents",
+              "claude-code-plugin",
+              "claude-skills",
+              "gemini-cli-extension",
+              "geo",
+              "googleads",
+              "googleadsmcp",
+              "mcp",
+              "metaads",
+              "seo"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         },
@@ -2404,12 +4711,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Transform Git history: rewrite, clean, and optimize your repositories with ease.",
+            "homepage": null,
             "id": 1148994780,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-27T14:07:28Z",
+            "open_issues": 3,
             "owner": "abduznik",
             "repo": "Git-Alchemist",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "ai",
+              "automation",
+              "cli",
+              "developer-tools",
+              "gemini",
+              "gemma",
+              "git",
+              "git-management",
+              "github",
+              "llm",
+              "productivity",
+              "python",
+              "repository-manager",
+              "version-control"
+            ]
           },
           "first_seen": "2026-08-28T19:29:16.149Z"
         }
@@ -2418,15 +4745,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T19:29:16.149Z",
+    "last_updated": "2026-08-29T04:41:24.398Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome tools, extensions, and resources for Gemini CLI.",
+      "homepage": null,
       "id": 1029161494,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-28T14:08:55Z",
+      "open_issues": 2,
       "owner": "Piebald-AI",
       "repo": "awesome-gemini-cli",
-      "stars": 497
+      "stars": 497,
+      "topics": [
+        "awesome",
+        "awesome-gemini-cli",
+        "awesome-list",
+        "awesome-lists",
+        "gemini",
+        "gemini-api",
+        "gemini-cli",
+        "llxprt",
+        "qwen",
+        "qwen-code"
+      ]
     },
     "original_repository_sha": "9061cbbdc7932763062864d7ee62cb357a5d20a7",
     "enhanced_repository": "enhansome/enhansome-gemini-cli",
